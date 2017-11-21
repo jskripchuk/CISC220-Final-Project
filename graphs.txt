@@ -1,0 +1,3843 @@
+*love_will_tear_us_apart_dt.txt
+*Graph:
+I(0): IV(26) 
+IV(0): V(22) I(4) 
+V(0): V11(1) I(20) Vs4(2) 
+V11(0): I(1) 
+Vs4(0): I(2) 
+
+*bitter_sweet_symphony_tdc.txt
+*Graph:
+I(0): v7(63) 
+IV(0): I(62) 
+bVII9(0): IV(8) 
+v7(0): bVII9(8) IV(55) 
+
+*with_or_without_you_tdc.txt
+*Graph:
+I(0): V(29) 
+IV(0): I(28) 
+V(0): vi(29) 
+vi(0): IV(29) 
+
+*whole_lotta_love_tdc.txt
+*Graph:
+I(0): bVII(64) R(1) IV(1) 
+IV(0): bVII(1) 
+R(0): bVII(1) I(1) 
+bVII(0): I(65) 
+
+*lets_get_it_on_tdc.txt
+*Graph:
+I(0): iii(40) 
+IV(0): V(40) 
+IVd7(0): I(6) V7/V(2) 
+V(0): I(33) IVd7(8) 
+V7/V(0): V(2) 
+iii(0): IV(40) 
+
+*proud_mary_dt.txt
+*Graph:
+I(0): V(4) bVII(2) 
+IV(0): bIII(3) 
+V(0): bVII(6) IV(3) vi(4) 
+bIII(0): I(3) 
+bVII(0): V(9) 
+vi(0): I(4) 
+
+*losing_my_religion_tdc.txt
+*Graph:
+R(0): bVII(1) 
+bIII(0): iv7(2) 
+bVI(0): bVII(11) 
+bVII(0): bVI(5) i(16) bIII(1) 
+i(0): bVI(6) bVII(5) v(15) 
+iv(0): bVII(5) 
+iv7(0): bIII(1) i(1) 
+v(0): i(10) iv(5) 
+
+*in_the_still_of_the_night_tdc.txt
+*Graph:
+I(0): vi(9) IV(3) IV64(2) 
+I6(0): IV(1) 
+IV(0): V64(9) V(3) I(1) 
+IV64(0): V(2) 
+V(0): I(12) I6(1) 
+V64(0): V(9) 
+vi(0): IV(9) 
+
+*god_only_knows_tdc.txt
+*Graph:
+I(0): IV(2) bVI64/ii(1) 
+I6(0): ii7(11) IV(6) 
+I64(0): viix42(4) II65(4) 
+II65(0): IV(4) 
+IV(0): I(2) I6(11) 
+IV64(0): bVI64/ii(1) bIII(2) 
+V42(0): I64(4) 
+bIII(0): IV64(1) bVI64/ii(1) 
+bVI64/ii(0): iv/ii(4) 
+ii(0): V42(4) 
+ii7(0): IV64(2) I(1) bVI64/ii(1) I6(7) 
+iv/ii(0): ii(4) 
+viix42(0): I64(4) 
+
+*come_as_you_are_dt.txt
+*Graph:
+bIII(0): i(10) iv(2) 
+bVI(0): iv(8) i(2) 
+bVII(0): i(30) 
+i(0): bVII(30) bIII(12) 
+iv(0): bVI(10) 
+
+*rockin_in_the_free_world_dt.txt
+*Graph:
+IV(0): i(3) 
+bIII(0): bVII(12) 
+bVI(0): i(54) bIII(3) 
+bVII(0): bVI(58) 
+i(0): bVII(46) bIII(9) IV(3) 
+
+*sunshine_of_your_love_tdc.txt
+*Graph:
+I(0): IV(4) V(4) 
+IV(0): I(4) V(14) 
+V(0): bVII(14) I(3) 
+bVII(0): IV(14) 
+
+*the_sounds_of_silence_dt.txt
+*Graph:
+I(0): IV(10) vi(5) V(5) 
+IV(0): I(15) 
+V(0): i(5) 
+bVII(0): i(5) 
+i(0): bVII(5) IV(5) 
+vi(0): I(5) 
+
+*rock_and_roll_music_dt.txt
+*Graph:
+I(0): IV(9) V(14) 
+IV(0): I(5) V(4) 
+V(0): I(18) 
+
+*lose_yourself_tdc.txt
+*Graph:
+V(0): i(1) 
+bIII(0): iio(1) 
+bVI6(0): i(24) bVII(27) 
+bVI7(0): i(1) iv(1) 
+bVII(0): bVI7(2) i(26) 
+i(0): bVII(2) bVI6(51) 
+iio(0): V(1) 
+iv(0): bIII(1) 
+
+*voodoo_child_dt.txt
+*Graph:
+IV(0): i(2) 
+R(0): i(1) 
+bVI(0): bVII(2) 
+bVII(0): i(2) 
+i(0): IV(2) bVI(2) 
+
+*back_in_black_dt.txt
+*Graph:
+I(0): bVII(27) V(2) IV(1) 
+IV(0): V(4) I(17) 
+IV6(0): I(10) V(2) 
+R(0): I(1) 
+V(0): IV(4) bIII(4) 
+bIII(0): bVII(4) 
+bVII(0): IV6(12) I(3) IV(16) 
+
+*i_saw_her_standing_there_tdc.txt
+*Graph:
+I(0): IV(7) V(13) I6(4) 
+I6(0): IV(4) 
+IV(0): I(8) bVI(4) V(2) 
+Id7(0): I(1) 
+V(0): I(12) IV(3) 
+bVI(0): I(4) 
+
+*billie_jean_tdc.txt
+*Graph:
+R(0): i(1) 
+V(0): i(2) 
+bVI(0): i(6) V(2) 
+i(0): iv(14) bVI(8) 
+iv(0): i(14) 
+
+*all_apologies_tdc.txt
+*Graph:
+IV(0): V(2) 
+Id7(0): IV(2) 
+V(0): Id7(2) 
+
+*will_you_love_me_tomorrow_dt.txt
+*Graph:
+I(0): ii65(4) V43(4) IV(4) 
+IV(0): V(7) iii(2) I(1) 
+V(0): I(11) 
+V/vi(0): vi(4) 
+V43(0): V/vi(4) 
+V7/V(0): IV(1) 
+ii65(0): V(4) 
+iii(0): IV(1) vi(1) 
+vi(0): IV(4) V7/V(1) 
+
+*i_cant_make_you_love_me_tdc.txt
+*Graph:
+I(0): IV9(4) I6(2) 
+I6(0): vi7(8) ii11(4) IV9(5) 
+I64(0): V(2) 
+IV9(0): vi7(15) I6(13) I(6) V6(4) bVII9(1) 
+V(0): I6(2) IV9(2) 
+V6(0): vi7(4) 
+VI9(0): IV9(1) 
+bVII9(0): 
+ii(0): IV9(5) I64(2) V(2) 
+ii11(0): IV9(4) 
+vi7(0): IV9(17) VI9(1) ii(9) 
+
+*walk_on_by_dt.txt
+*Graph:
+I7(0): IV(14) i(1) 
+IV(0): i(9) ii7(2) V(3) I7(12) 
+V(0): I7(3) 
+i(0): IV(10) ii7(1) 
+ii7(0): iii7(6) 
+iii7(0): ii7(3) vi(3) IV(3) 
+vi(0): iii7(3) 
+
+*tangled_up_in_blue_tdc.txt
+*Graph:
+I(0): Is4(32) Id9(48) IV(16) 
+IV(0): I(16) V(24) 
+Id9(0): I(32) IV(16) 
+Is4(0): I(32) 
+V(0): vi(16) bVII(8) 
+bVII(0): IV(8) 
+vi(0): I(16) 
+
+*born_to_be_wild_tdc.txt
+*Graph:
+IV(0): i(12) bIII(2) 
+bIII(0): IV(14) i(2) 
+bVII(0): i(8) 
+i(0): bIII(11) i7(4) bVII(8) 
+i7(0): bIII(3) i(1) 
+
+*i_wanna_be_sedated_tdc.txt
+*Graph:
+I(1): IV(18) V(12) 
+IV(0): I(8) V(10) 
+V(0): I(22) 
+
+*sabotage_tdc.txt
+*Graph:
+
+*rave_on_tdc.txt
+*Graph:
+I(0): IV(17) V(7) V7(4) 
+IV(0): I(17) 
+R(0): I(1) 
+V(0): I(7) 
+V7(0): I(4) 
+
+*i_heard_it_through_the_grapevine_tdc.txt
+*Graph:
+IVd7(0): i(21) vi(3) 
+V7(0): IVd7(6) 
+i(0): V7(6) IVd7(15) 
+vi(0): IVd7(3) 
+
+*my_girl_tdc.txt
+*Graph:
+I(0): IV(14) ii(12) 
+IV(0): I(13) V(6) ii(1) 
+V(0): I(12) iii(1) 
+ii(0): IV(6) V(7) 
+iii(0): V(1) 
+
+*be_my_baby_dt.txt
+*Graph:
+I(0): ii(6) vi(4) 
+IV(0): V(4) 
+R(0): I(2) 
+V(0): I(8) V/vi(2) R(1) 
+V/V(0): V(2) 
+V/ii(0): V/V(2) 
+V/vi(0): V/ii(2) 
+ii(0): V(6) 
+vi(0): IV(4) 
+
+*i_only_have_eyes_for_you_tdc.txt
+*Graph:
+I(0): bVII(23) V7/IV(4) bVId7(1) 
+IV(0): vi(1) V7/V(2) iv(1) 
+V(0): I(2) 
+V7(0): V7/V(1) I(13) 
+V7/IV(0): IV(4) 
+V7/V(0): I(1) ii(2) 
+bVII(0): V7(13) I(9) 
+bVIId7(0): V7(1) 
+bVId7(0): I(2) 
+ii(0): V(2) 
+iv(0): I(1) 
+vi(0): bVId7(1) 
+
+*thats_all_right_dt.txt
+*Graph:
+I(0): IVd7(5) 
+IVd7(0): V(5) 
+V(0): I(5) 
+
+*dont_worry_baby_dt.txt
+*Graph:
+I(0): IV(10) ii7(7) 
+IV(0): V(10) 
+R(0): I(1) 
+V(0): I(14) ii(6) V7(2) 
+V7(0): I(2) 
+ii(0): V(6) 
+ii7(0): V(7) 
+
+*in_the_midnight_hour_tdc.txt
+*Graph:
+I(0): IV(50) bVII(1) 
+IV(0): bIII(1) I(46) V(5) bVII(2) 
+V(0): IV(5) I(4) 
+bIII(0): I(1) 
+bVII(0): V(4) 
+
+*papa_was_a_rollin_stone_dt.txt
+*Graph:
+
+*enter_sandman_tdc.txt
+*Graph:
+bIII(0): i(8) ii(3) 
+i(0): iv64(54) iv(23) bIII(4) ii(6) 
+ii(0): v64(20) v(20) 
+iv(0): i(16) bIII(7) 
+iv64(0): i(52) ii(1) 
+v(0): ii(10) i(10) 
+v64(0): ii(20) 
+
+*the_tracks_of_my_tears_dt.txt
+*Graph:
+I(0): IV(40) vi(1) 
+IV(0): V(18) I(22) 
+V(0): I(18) 
+V7(0): I(1) 
+vi(0): V7(1) 
+
+*paranoid_android_dt.txt
+*Graph:
+I(0): bVI(18) vi(4) IV(1) 
+IV(0): i(1) V/vi(4) 
+IV/IV(0): IV6(4) 
+IV6(0): ii/IV(4) 
+V/ii(0): ii(8) 
+V/vi(0): VI(3) vi(1) 
+V6(0): iv6/ii(4) 
+V7/ii(0): i(2) iv(1) vi(1) 
+VI(0): i(3) 
+bVI(0): vi(14) I(24) ii(2) 
+bVII(0): i(5) 
+i(0): vih7(8) v6(4) V6(4) 
+ii(0): vi(2) V/ii(4) vi6(4) 
+ii/IV(0): IV(4) 
+iv(0): bVII(5) 
+iv6/ii(0): V/ii(4) 
+v6(0): V7/ii(4) 
+vi(0): bVI(22) 
+vi6(0): IV/IV(4) 
+vih7(0): i(5) iv(3) 
+
+*purple_rain_dt.txt
+*Graph:
+I(0): vi(19) IV(3) 
+IV(0): I(16) 
+V(0): IV(13) I(6) 
+vi(0): V(19) 
+
+*help_tdc.txt
+*Graph:
+I(0): iii(6) ii(3) vi(1) 
+IV(0): bVII(6) 
+V7(0): I(4) 
+bVII(0): V7(4) I(6) 
+ii(0): bVII(4) 
+iii(0): vi(6) 
+vi(0): IV(6) I(1) 
+
+*sunshine_of_your_love_dt.txt
+*Graph:
+I(0): IV(4) V(4) 
+IV(0): I(4) V(14) 
+V(0): bVII(14) I(3) 
+bVII(0): IV(14) 
+
+*rock_lobster_dt.txt
+*Graph:
+V(0): i(72) bVI(12) bVII(2) 
+bIII(0): bVI(12) 
+bVI(0): V(36) 
+bVII(0): i(2) 
+biii(0): bVI(12) 
+i(0): iv6(50) bIII(12) biii(12) iv(2) 
+iv(0): i(2) 
+iv6(0): V(50) 
+
+*yesterday_tdc.txt
+*Graph:
+I(0): ii7/vi(4) vi7(4) Vs4/vi(4) I64(1) 
+I64(0): II6(1) 
+II(0): IV(4) 
+II6(0): IV(1) 
+IV(0): I(5) ii(4) 
+IV7(0): V7(4) 
+V7(0): I(8) 
+V7/vi(0): vi(8) 
+Vs4/vi(0): V7/vi(4) 
+ii(0): V7(4) 
+ii7/vi(0): V7/vi(4) 
+vi(0): IV7(4) IV(4) 
+vi7(0): II(4) 
+
+*be-bop-a-lula_tdc.txt
+*Graph:
+I(0): IV(6) V(6) 
+IV(0): I(12) 
+R(0): I(1) 
+V(0): IV(6) 
+
+*who_do_you_love_dt.txt
+*Graph:
+'Ch5'(0): is(1) 
+'Vr5'(0): is(1) 
+I(0): 
+R(0): V(1) 
+V(0): I(1) 
+Warning:(0): 'Ch5'(1) 'Vr5'(1) 
+but(0): never(2) 
+defined(0): but(2) 
+is(0): defined(2) 
+never(0): used(2) 
+used(0): Warning:(1) R(1) 
+
+*blueberry_hill_dt.txt
+*Graph:
+I(0): IV(6) V7(4) ii7(2) V7/IV(2) 
+IV(0): I(9) 
+V(0): I(2) 
+V7(0): I(4) V7/IV(2) 
+V7/IV(0): V7/iii(2) IV(2) 
+V7/iii(0): iii(6) 
+ii7(0): V(2) 
+iii(0): V7/iii(4) V7(2) 
+
+*the_dock_of_the_bay_dt.txt
+*Graph:
+I(0): III(6) vi(7) II(3) VI(3) V(3) bVII(1) 
+II(0): I(9) 
+III(0): IV(6) 
+IV(0): II(6) I(3) 
+V(0): IV(3) I(1) 
+VI(0): I(3) 
+bVII(0): V(1) 
+vi(0): I(6) 
+
+*i_cant_stop_loving_you_dt.txt
+*Graph:
+I(0): V7(8) V7/IV(7) IV64(3) V11(2) 
+I64(0): V7(2) 
+IV(0): I(8) I64(2) 
+IV64(0): I(3) 
+V11(0): V7/IV(2) 
+V7(0): I(10) 
+V7/IV(0): IV(10) 
+
+*whole_lotta_love_dt.txt
+*Graph:
+I(0): R(1) 
+IV(0): bVII(1) 
+R(0): bVII(1) i(1) 
+bVII(0): i(64) I(1) 
+i(0): bVII(64) IV(1) 
+
+*bo_diddley_dt.txt
+*Graph:
+I(0): bVII(6) IV(2) 
+IV(0): I(2) 
+bVII(0): I(6) 
+
+*mr_tambourine_man_byrds_tdc.txt
+*Graph:
+I(0): V(8) IV(17) 
+IV(0): V(12) I(10) 
+V(0): I(14) IV(5) 
+
+*cathys_clown_tdc.txt
+*Graph:
+I(0): V(39) IV(10) 
+IV(0): V(5) I(8) vi(2) 
+V(0): I(40) vi(3) 
+vi(0): IV(5) 
+
+*take_me_to_the_river_tdc.txt
+*Graph:
+IV(0): Id7(12) bVI(3) vi(1) bIII64(1) 
+Id7(0): bVII(12) vi(1) 
+R(0): Id7(1) 
+V(0): Id7(1) 
+bIII(0): bVII(3) 
+bIII64(0): V(1) 
+bVI(0): bIII(3) 
+bVII(0): IV(15) 
+vi(0): IV(2) 
+
+*one_dt.txt
+*Graph:
+I(0): vi(16) i(2) V(1) 
+IV(0): bVI(9) I(15) 
+V(0): IV(1) 
+bVI(0): bVII(9) 
+bVII(0): i(6) I(3) 
+i(0): IV(9) 
+vi(0): IV(14) I(2) 
+
+*kashmir_dt.txt
+*Graph:
+I(0): IV(6) bIII(13) V(13) 
+IV(0): I(13) bVI(13) 
+V(0): bVII(13) IV(1) iv(12) I(1) 
+bIII(0): bVII(13) i(13) 
+bVI(0): bIII(13) 
+bVII(0): I(13) IV(13) 
+i(0): IV(6) I(4) V(1) iv(2) 
+iv(0): V(14) 
+
+*free_fallin_tdc.txt
+*Graph:
+I(0): IV(43) V+11(18) V(25) 
+IV(0): I(43) 
+V(0): I(24) 
+V+11(0): I(18) 
+
+*anarchy_in_the_uk_dt.txt
+*Graph:
+I(2): IV(26) V(4) ii(1) 
+IV(0): iii(34) 
+V(0): IV(8) I(2) 
+ii(0): I(8) iii(3) V(1) 
+iii(0): ii(11) I(22) V(4) 
+
+*for_what_its_worth_dt.txt
+*Graph:
+I(0): IV(24) bVII(7) 
+IV(0): I(24) bVI(7) 
+bVI(0): I(6) 
+bVII(0): IV(7) 
+
+*for_what_its_worth_tdc.txt
+*Graph:
+I(0): IV(24) bVII(7) 
+IV(0): I(26) bIII(4) 
+bIII(0): I(4) 
+bVII(0): IV(7) 
+
+*whatd_i_say_tdc.txt
+*Graph:
+I(0): IV(11) V(22) 
+IV(0): I(22) 
+V(0): IV(11) I(10) 
+
+*family_affair_tdc.txt
+*Graph:
+IV7(0): iii7(4) 
+V(0): i(2) ii7(24) ii(3) 
+V7(0): i(1) 
+i(0): IV7(4) 
+ii(0): vi(3) 
+ii7(0): V(30) 
+iii7(0): ii7(4) 
+vi(0): ii7(2) V7(1) 
+
+*summertime_blues_dt.txt
+*Graph:
+I(0): IV(22) 
+IV(0): V7(16) I(6) 
+V7(0): I(16) 
+
+*lose_yourself_dt.txt
+*Graph:
+V(0): i(1) 
+bIII(0): iio(1) 
+bVI(0): i(19) iv(1) bVII(19) 
+bVII(0): bVI(2) i(18) 
+i(0): bVII(2) bVI(37) iv(14) 
+iio(0): V(1) i(14) 
+iv(0): bIII(1) iio(14) 
+
+*blowin_in_the_wind_tdc.txt
+*Graph:
+I(0): IV(30) 
+IV(0): V(24) I(6) 
+V(0): I(24) 
+
+*hallelujah_tdc.txt
+*Graph:
+I(0): vi7(22) IV(6) 
+I6(0): V(6) V64(8) vi9(1) vi(1) 
+IV(0): V(20) vi(8) I6(10) 
+IV64(0): V(1) 
+V(0): I(9) I6(6) vi(7) V65/vi(5) IV(5) 
+V64(0): I(4) IV(4) 
+V65/vi(0): vi(5) 
+ii7(0): IV64(1) 
+vi(0): vio(3) ii7(1) IV(16) V(5) 
+vi7(0): I(16) IV(6) 
+vi9(0): IV(1) 
+vio(0): vi(4) 
+
+*tears_in_heaven_tdc.txt
+*Graph:
+I(0): V6(15) IV(2) 
+I64(0): IV6(13) V(13) 
+IV(0): iii(2) 
+IV6(0): I64(13) 
+V(0): I(10) vi(4) 
+V/ii(0): ii7(4) 
+V11(0): I(4) 
+V6(0): vi(14) I(3) V(1) 
+V6/vi(0): iid6/ii(4) 
+ii(0): V6(2) 
+ii7(0): V11(4) 
+iid6/ii(0): V/ii(4) 
+iii(0): ii(2) 
+vi(0): I64(13) V6/vi(4) V6(1) 
+
+*the_times_they_are_a-changin_dt.txt
+*Graph:
+I(0): vi(26) ii(5) V(3) 
+IV(0): I(14) V(7) vi(7) 
+V(0): I(19) IV(8) 
+ii(0): V(5) 
+vi(0): IV(20) V(13) 
+
+*georgia_on_my_mind_tdc.txt
+*Graph:
+I(0): iii64(1) V7/vi(6) viix43(2) I6(1) 
+I6(0): IV(1) 
+I64(0): ii7(1) IV(4) V7/ii(4) 
+IId7(0): vi(2) 
+IV(0): viix7/V(4) viio/V(1) 
+IVd7(0): vi(1) 
+V(0): I(1) bIId7(1) 
+V7(0): bVId7/ii(2) I(6) 
+V7/V(0): V7(8) 
+V7/ii(0): V7/V(6) 
+V7/iii(0): iii(2) 
+V7/vi(0): vi(6) 
+bIId7(0): I(1) 
+bVId7/V(0): V7/V(2) 
+bVId7/ii(0): V7/ii(2) 
+ii7(0): V(1) vi(3) 
+iii(0): bVId7/V(2) 
+iii64(0): vi7(1) 
+iv6(0): viix7/V(1) 
+vi(0): I64(4) IId7(2) V7/iii(2) ii7(3) IVd7(1) 
+vi7(0): iv6(1) 
+viio/V(0): V(1) 
+viix43(0): I(2) 
+viix7/V(0): I64(5) 
+
+*heroes_tdc.txt
+*Graph:
+I(0): IV(24) v(6) bVII(6) 
+IV(0): I(24) bVII(6) 
+bVII(0): I(6) IV(6) 
+ii(0): I(6) 
+v(0): ii(6) 
+
+*light_my_fire_tdc.txt
+*Graph:
+I(1): V(3) i(2) IV(4) VI(3) II7(3) bIII(4) 
+II7(0): V7(3) 
+IV(0): V(8) I(3) 
+V(0): bVII(3) I(8) 
+V7(0): i(3) 
+VI(0): IV(3) 
+bII(0): I(3) 
+bIII(0): bVI(3) bVII(4) 
+bVI(0): bII(3) 
+bVII(0): bIII(3) I(4) 
+i(0): vi(16) ii(140) 
+ii(0): i(139) I(1) 
+vi(0): i(12) IV(4) 
+
+*superstition_tdc.txt
+*Graph:
+#IV(0): IV(4) 
+IV(0): Va(4) 
+R(0): i7(1) 
+V(0): bVIb5(4) #IV(4) 
+Va(0): i7(4) 
+bVIb5(0): V(4) 
+i7(0): V(4) 
+
+*paint_it_black_tdc.txt
+*Graph:
+IV(0): V(5) 
+R(0): i(1) 
+V(0): R(1) i(28) 
+bIII(0): bVII(10) 
+bVII(0): bIII(10) i(5) IV(5) 
+i(0): V(25) bVII(10) 
+
+*summer_babe_tdc.txt
+*Graph:
+I(0): V(38) 
+IV(0): I(38) 
+V(0): IV(38) 
+
+*jailhouse_rock_tdc.txt
+*Graph:
+I(0): IV(6) V(6) 
+IV(0): I(12) 
+V(0): IV(6) 
+
+*should_i_stay_or_should_i_go_tdc.txt
+*Graph:
+I(0): IV(38) V(7) 
+IV(0): I(38) bIII(7) 
+V(0): I(7) 
+bIII(0): IV(7) 
+
+*thatll_be_the_day_tdc.txt
+*Graph:
+I(0): V(7) IV(13) V/V(2) 
+IV(0): I(18) 
+V(0): IV(5) I(4) 
+V/V(0): V(2) 
+
+*smells_like_teen_spirit_dt.txt
+*Graph:
+IV(0): bIII(66) i(4) 
+bII(0): i64(4) 
+bIII(0): bVI(66) 
+bVI(0): i(66) 
+i(0): IV(66) bII(4) 
+i64(0): IV(4) 
+
+*in_bloom_dt.txt
+*Graph:
+I(0): vi(32) 
+II(0): IV(14) 
+IV(0): bII(14) II(8) I(6) 
+V(0): bVII(8) 
+bII(0): vii(14) 
+bVI(0): IV(14) 
+bVII(0): I(5) i(3) 
+i(0): bVI(14) 
+vi(0): V(8) I(18) II(6) 
+vii(0): i(11) I(3) 
+
+*california_dreamin_dt.txt
+*Graph:
+V(0): i(16) bVI(3) 
+bIII(0): V(4) 
+bVI(0): bVII(13) bIII(4) V(4) i(1) 
+bVII(0): bVI(14) V(10) i(2) 
+i(0): bVII(13) bVI(5) 
+
+*a_day_in_the_life_tdc.txt
+*Graph:
+I(0): iii(1) iii64(8) bVII(2) V(6) 
+II(0): VI(2) 
+IV(0): I(4) vi64(4) bVII(5) V(2) vi(2) 
+V(0): I(5) IV(1) II(2) 
+VI(0): IV(2) 
+bVII(0): vi(5) I(2) 
+ii(0): I(4) 
+iii(0): vi(1) 
+iii64(0): vi(8) 
+vi(0): vi42(13) IV(1) I(2) 
+vi42(0): IV(13) 
+vi64(0): ii(4) 
+
+*no_woman_no_cry_dt.txt
+*Graph:
+I(0): V6(31) IV(11) V(11) 
+IV(0): I(42) 
+V(0): I(10) 
+V6(0): vi(31) 
+vi(0): IV(31) 
+
+*im_so_lonesome_i_could_cry_tdc.txt
+*Graph:
+I(0): V(7) IV(6) 
+IV(0): I(6) 
+V(0): I(7) 
+
+*blitzkrieg_bop_tdc.txt
+*Graph:
+I(0): IV(38) 
+II(0): IV(2) 
+IV(0): V(26) I(12) II(2) 
+V(0): I(26) 
+
+*losing_my_religion_dt.txt
+*Graph:
+R(0): bVII(1) 
+bIII(0): iv(2) 
+bVI(0): bVII(3) i(8) 
+bVII(0): bVI(5) i(8) bIII(1) 
+i(0): bVI(6) bVII(5) v(15) 
+iv(0): bVII(5) bIII(1) i(1) 
+v(0): i(10) iv(5) 
+
+*fast_car_dt.txt
+*Graph:
+I(0): vi(52) 
+IV(0): I(53) vi(6) V(3) 
+V(0): IV(61) 
+vi(0): V(58) 
+
+*a_hard_days_night_tdc.txt
+*Graph:
+I(0): IV(24) bVII(10) V(2) iii(2) vi(2) 
+IV(0): I(18) V(5) v7s4(1) 
+IVd7(0): V(2) 
+V(0): I(9) 
+bVII(0): I(10) 
+iii(0): vi(2) I(2) 
+v7s4(0): I(1) 
+vi(0): iii(2) IVd7(2) 
+
+*one_tdc.txt
+*Graph:
+I(0): vi(18) V(1) 
+II(0): IV(9) 
+IV(0): V(9) I(15) 
+V(0): vi(6) I(3) IV(1) 
+vi(0): II(9) IV(14) I(2) 
+
+*with_or_without_you_dt.txt
+*Graph:
+I(0): V(29) 
+IV(0): I(28) 
+V(0): vi(29) 
+vi(0): IV(29) 
+
+*summertime_blues_tdc.txt
+*Graph:
+I(0): IV(22) 
+IV(0): V(16) I(6) 
+V(0): I(16) 
+
+*respect_tdc.txt
+*Graph:
+IV(0): Id7(17) V(11) ii(1) 
+Id7(0): IV(18) 
+V(0): IV(12) ii(1) 
+ii(0): V(2) 
+
+*your_song_dt.txt
+*Graph:
+I(0): IV(3) IV7(4) ii(4) V6(2) 
+I6(0): ii65(3) 
+I64(0): V(4) 
+IV(0): V(5) I(5) I64(4) V6(2) vi(2) 
+IV7(0): V6(4) 
+V(0): IV(3) V6/vi(4) I(3) vi(1) 
+V6(0): iii(4) vi(4) 
+V6/vi(0): vi(4) 
+ii(0): IV(8) 
+ii65(0): I6(3) V(2) I(1) 
+iii(0): vi(4) 
+vi(0): IV(4) I(4) ii(4) ii65(3) 
+
+*johnny_b_goode_tdc.txt
+*Graph:
+I(0): IV(11) V(9) 
+IV(0): I(12) 
+V(0): IV(1) I(8) 
+
+*long_tall_sally_dt.txt
+*Graph:
+I(0): IV(8) V(8) 
+IV(0): I(16) 
+R(0): I(1) 
+V(0): IV(8) 
+
+*waterloo_sunset_tdc.txt
+*Graph:
+I(0): V(1) V6(10) V/V(2) 
+IV(0): I(1) 
+IV6(0): I(4) ii(3) V/V(2) V(1) 
+V(0): I(6) IV(1) 
+V/V(0): V(2) V7(2) 
+V6(0): IV6(10) 
+V7(0): I(2) 
+ii(0): ii42(3) 
+ii42(0): V(3) 
+
+*love_will_tear_us_apart_tdc.txt
+*Graph:
+I(0): IV6(26) 
+IV6(0): Vs4(26) 
+V9(0): ii7(1) 
+Vs4(0): I(25) 
+ii7(0): I(1) 
+
+*layla_tdc.txt
+*Graph:
+I(0): ii(3) IV(3) V(3) I6(15) vi(4) 
+I6(0): IV(15) 
+II(0): V(2) 
+IV(0): ii(3) I(7) bVIId7(8) 
+V(0): I(10) i(3) 
+bVI(0): bVII(37) 
+bVII(0): i(30) vi(3) I(4) 
+bVIId7(0): I(8) 
+i(0): bVI(34) 
+ii(0): V(8) 
+iii(0): vi(3) 
+vi(0): iii(3) bVI(3) ii(2) II(2) 
+
+*mystery_train_dt.txt
+*Graph:
+I(0): IV(9) V(5) 
+IV(0): I(14) 
+V(0): IV(5) 
+
+*good_golly_miss_molly_tdc.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(14) 
+V(0): IV(7) 
+
+*hallelujah_dt.txt
+*Graph:
+I(0): vi(22) V(13) IV(6) 
+IV(0): V(18) vi(10) I(9) 
+IV6(0): V(1) 
+IV64(0): I(1) 
+IVd7(0): vi(4) 
+V(0): I(16) vi(7) V7/vi(5) IV(4) 
+V7/vi(0): vi(5) 
+iih7(0): IV64(1) 
+vi(0): IVd7(3) iih7(1) I(16) IV(27) IV6(1) 
+
+*sympathy_for_the_devil_tdc.txt
+*Graph:
+I(0): bVII(31) V(10) 
+IV(0): I(31) 
+R(0): I(1) 
+V(0): I(10) 
+bVII(0): IV(31) 
+
+*lust_for_life_dt.txt
+*Graph:
+I(0): V(11) 
+IV(0): V(5) 
+R(0): I(1) 
+V(0): I(11) bVII(5) 
+bVII(0): IV(5) 
+
+*she_loves_you_dt.txt
+*Graph:
+I(0): vi(12) 
+II(0): IV(1) iio6(2) 
+IV(0): I(2) 
+R(0): vi(1) 
+V(0): I(11) vi(2) 
+iii(0): V(6) 
+iio6(0): V(7) 
+vi(0): II(3) iii(6) iio6(5) IV(1) 
+
+*paint_it_black_dt.txt
+*Graph:
+IV(0): V(5) 
+R(0): i(1) 
+V(0): R(1) i(28) 
+bIII(0): bVII(10) 
+bVII(0): bIII(10) i(5) IV(5) 
+i(0): V(25) bVII(10) 
+
+*anarchy_in_the_uk_tdc.txt
+*Graph:
+I(1): IV(27) V(4) ii(1) 
+I6(0): I(23) V(4) 
+IV(0): iii(8) I6(27) 
+V(0): IV(8) I(2) 
+ii(0): I(8) iii(3) V(1) 
+iii(0): ii(11) 
+
+*everyday_people_dt.txt
+*Graph:
+I(0): IV64(32) 
+IV64(0): I(32) 
+
+*nothing_compares_2_u_dt.txt
+*Graph:
+I(0): V6(12) V11(8) 
+IV(0): bVII(1) V(1) I(1) vi(7) 
+V(0): I(2) bVII(5) 
+V11(0): I(8) 
+V6(0): vi7(12) 
+V7/vi(0): bVII(3) 
+bVII(0): IV(9) 
+vi(0): V(7) 
+vi7(0): I(8) V7/vi(3) IV(1) 
+
+*a_change_is_gonna_come_dt.txt
+*Graph:
+I(0): V6(1) ii7(10) 
+I64(0): ii65(1) 
+IV(0): V/vi(4) 
+V(0): I(1) 
+V/vi(0): vi(4) 
+V43/ii(0): ii(1) 
+V6(0): vi(1) 
+V7(0): I(1) 
+V7/V(0): V7(1) 
+VId7(0): V(1) 
+bVIId7(0): VId7(1) 
+ii(0): vi6(1) 
+ii65(0): V43/ii(1) 
+ii7(0): vi(6) IV(4) I(1) 
+vi(0): I64(1) I(8) ii7(1) V7/V(1) 
+vi6(0): bVIId7(1) 
+
+*proud_mary_tdc.txt
+*Graph:
+I(0): V(4) bVII(2) 
+IV(0): bIII(3) 
+V(0): bVII(6) IV(3) vi(4) 
+bIII(0): I(3) 
+bVII(0): V(9) 
+vi(0): I(4) 
+
+*thats_all_right_tdc.txt
+*Graph:
+I(0): IV(5) 
+IV(0): V(5) 
+V(0): I(5) 
+
+*shout_tdc.txt
+*Graph:
+I(0): vi(52) IV64(1) V7/IV(1) 
+IV64(0): I(1) 
+IVd7(0): I(1) 
+R(0): I(1) 
+V7/IV(0): IVd7(1) 
+vi(0): I(51) 
+
+*norwegian_wood_dt.txt
+*Graph:
+I(0): v(11) i(2) 
+IV(0): i(2) 
+V(0): I(2) 
+i(0): IV(2) ii7(2) 
+ii7(0): V(2) 
+v(0): I(11) 
+
+*fake_plastic_trees_tdc.txt
+*Graph:
+I(0): IV65(6) IV(6) ii7(4) V(3) 
+IV(0): I(10) ii7(3) 
+IV65(0): V(6) 
+V(0): IV(6) ii7(3) I(1) 
+ii7(0): I(8) V(1) IV(1) 
+
+*hey_jude_tdc.txt
+*Graph:
+I(0): V(8) IV(4) V7(2) I42(4) bVII(18) 
+I42(0): vi(4) 
+IV(0): I(22) 
+R(0): I(1) 
+V(0): V7(10) I(4) 
+V/V(0): V(4) 
+V6/V(0): V/V(4) 
+V7(0): I(10) V(2) 
+bVII(0): IV(18) 
+vi(0): vi42(4) 
+vi42(0): V6/V(4) 
+
+*ive_been_loving_you_too_long_tdc.txt
+*Graph:
+I(0): V(8) V7/vi(2) bVI(5) 
+IV(0): bVI(2) 
+R(0): I(1) 
+V(0): I(9) 
+V7/vi(0): IV(2) 
+bVI(0): I(5) V(1) 
+
+*satisfaction_dt.txt
+*Graph:
+I(0): IV(51) V(3) 
+IV(0): I(50) 
+V(0): I(3) 
+
+*crying_dt.txt
+*Graph:
+I(0): Ia(4) V7(4) iii(4) vi(1) IV(1) 
+IV(0): iih65(4) V7(5) I(1) 
+Ia(0): IV(4) 
+V7(0): I(7) IV(2) 
+iih65(0): I(4) 
+iii(0): I(2) IV(2) 
+vi(0): IV(1) 
+
+*great_balls_of_fire_dt.txt
+*Graph:
+I(0): IV(10) 
+IV(0): V(8) I(8) 
+V(0): IV(6) I(2) 
+
+*yesterday_dt.txt
+*Graph:
+I(0): iih7/vi(4) vi7(4) ii7/vi(4) I64(1) 
+I64(0): V6/V(1) 
+IV(0): I(5) 
+IV7(0): V(4) 
+V(0): I(8) 
+V/V(0): IV(4) 
+V/vi(0): vi(4) 
+V6/V(0): IV(1) 
+V7/vi(0): vi(4) 
+ii(0): V(4) 
+ii7/vi(0): V/vi(4) 
+iih7/vi(0): V7/vi(4) 
+vi(0): IV7(4) ii(4) 
+vi7(0): V/V(4) 
+
+*im_waiting_for_the_man_tdc.txt
+*Graph:
+I(0): IV(61) III(5) 
+III(0): IV(5) 
+IV(0): I(60) V(5) 
+V(0): I(5) 
+
+*i_only_have_eyes_for_you_dt.txt
+*Graph:
+I(0): bVII(23) V7(3) iii7(1) V7/ii(2) IV7/IV(1) bVId7(1) 
+IId7(0): I(1) 
+IV(0): iv(1) 
+IV7/IV(0): IV(1) 
+V7(0): IId7(1) I(5) 
+V7/ii(0): ii7(2) 
+bVII(0): I(22) 
+bVIId7(0): V7(1) 
+bVId7(0): I(1) 
+biii7(0): I(1) 
+ii7(0): V7(2) 
+iii7(0): biii7(1) 
+iv(0): I(1) 
+
+*house_of_the_rising_sun_tdc.txt
+*Graph:
+IV(0): bVI(22) 
+V(0): i(29) 
+bIII(0): IV(22) V(7) 
+bVI(0): i(22) 
+i(0): bIII(29) V(22) iv(5) 
+iv(0): i(5) 
+
+*wont_get_fooled_again_tdc.txt
+*Graph:
+I(0): IV64(51) IV(15) bVII(20) V/V(1) 
+IV(0): I(38) 
+IV64(0): I(44) V(6) V/V(1) 
+V(0): bIII(6) bVII(6) I(1) 
+V/V(0): V(1) I(1) 
+bIII(0): bVII(6) 
+bVII(0): I(3) IV(23) V(6) 
+
+*bizarre_love_triangle_tdc.txt
+*Graph:
+I(0): Vs4(2) IV(28) 
+I6(0): IV(6) 
+IV(0): I(2) V(38) R(3) 
+R(0): I(1) IV(3) 
+V(0): I(28) iii(4) I6(6) 
+Vs4(0): iii(2) 
+iii(0): IV(6) 
+
+*blue_suede_shoes_tdc.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(7) 
+R(0): I(1) 
+V(0): I(7) 
+
+*sweet_child_o_mine_tdc.txt
+*Graph:
+I(0): ii7(1) bVII(9) V(8) i(1) 
+IV(0): I(10) 
+V(0): bVII(8) iv(4) 
+bIII(0): iv(12) i(10) 
+bVI(0): V(4) bVII(11) 
+bVII(0): IV(9) I(8) bIII(10) i(1) 
+i(0): bVI(4) bIII(12) 
+ii7(0): IV(1) 
+iv(0): i(5) bVI(11) 
+
+*rock_lobster_tdc.txt
+*Graph:
+R(0): i(2) 
+V(0): i(74) bVI(12) 
+bIII(0): bVI(24) 
+bVI(0): V(36) 
+bVII(0): i(4) 
+i(0): iv6(50) bIII(24) R(2) bVII(4) 
+iv6(0): V(50) 
+
+*ring_of_fire_tdc.txt
+*Graph:
+I(0): IV(11) V(30) 
+IV(0): I(19) 
+V(0): I(21) IV(8) 
+
+*bridge_over_troubled_water_tdc.txt
+*Graph:
+I(0): IV64(11) IV(9) V(9) I42(3) 
+I42(0): V42/IV(3) 
+I64(0): V(3) VI7(4) vi7(3) 
+I7(0): ii(3) 
+II(0): bII(2) 
+IV(0): vii64(7) iv(3) bVII(3) I7(3) I(6) V/V(3) viix7/vi(3) viix42(1) V/vi(2) vi(2) 
+IV64(0): I(11) 
+V(0): IV(9) I(6) 
+V/V(0): V(3) 
+V/vi(0): vi(2) 
+V42/IV(0): V7/IV(3) 
+V7/IV(0): IV(3) 
+VI7(0): IV(4) 
+bII(0): I64(2) 
+bVII(0): IV(3) 
+ii(0): I(3) 
+iv(0): I(3) 
+vi(0): I(3) vi42(2) IV(2) 
+vi42(0): II(2) 
+vi7(0): IV(3) 
+vii64(0): viix7/V(7) 
+viix42(0): I(1) 
+viix7/V(0): I64(7) 
+viix7/vi(0): vi(3) 
+
+*enter_sandman_dt.txt
+*Graph:
+i(0): ii(10) 
+ii(0): i(10) 
+
+*louie_louie_tdc.txt
+*Graph:
+I(0): IV(41) 
+IV(0): v(41) I(41) 
+v(0): IV(41) 
+
+*smells_like_teen_spirit_tdc.txt
+*Graph:
+bII(0): i64(4) 
+bIII(0): bVI(66) i(4) 
+bVI(0): i(66) 
+i(0): iv(66) bII(4) 
+i64(0): iv(4) 
+iv(0): bIII(70) 
+
+*in_my_life_dt.txt
+*Graph:
+I(0): V(11) vi(6) 
+II(0): iv7(3) 
+IV(0): iv(6) 
+V(0): I(4) vi(6) iv7(1) 
+V42/IV(0): IV(6) 
+bVII(0): I(3) 
+ii6(0): bVII(3) 
+iv(0): I(6) 
+iv7(0): I(4) 
+vi(0): V42/IV(6) ii6(3) II(3) 
+
+*the_message_dt.txt
+*Graph:
+R(0): i(2) 
+i(0): R(1) 
+
+*when_doves_cry_dt.txt
+*Graph:
+R(0): bVI(1) 
+V(0): i(28) bVI(2) 
+bVI(0): i(24) 
+bVII(0): bVI(21) i(10) V(30) 
+i(0): bVII(38) iv(23) 
+iv(0): bVII(23) 
+
+*whole_lotta_shakin_goin_on_tdc.txt
+*Graph:
+I(0): IV(9) V(9) 
+IV(0): I(17) 
+V(0): IV(8) I(1) 
+
+*whats_going_on_tdc.txt
+*Graph:
+I7(0): vi7(10) 
+V11(0): V7(3) ii7(4) I7(3) 
+V7(0): I7(1) ii7(2) 
+ii7(0): V11(9) 
+iv7(0): V11(2) 
+vi7(0): I7(5) ii7(3) iv7(2) 
+
+*hotel_california_tdc.txt
+*Graph:
+I(0): V(2) iv(2) 
+IV(0): bVI(13) I(4) 
+V(0): bVII(13) i(14) IV(2) 
+bIII(0): iv(13) 
+bVI(0): bIII(13) 
+bVII(0): IV(13) 
+i(0): V(13) IV(2) 
+iv(0): V(15) 
+
+*summer_babe_dt.txt
+*Graph:
+I(0): V(38) 
+IV(0): I(38) 
+V(0): IV(38) 
+
+*will_you_love_me_tomorrow_tdc.txt
+*Graph:
+I(0): IV(8) V(4) 
+IV(0): V(11) iii(2) I(1) 
+V(0): I(11) V/vi(4) 
+V/V(0): IV(1) 
+V/vi(0): vi(4) 
+ii7(0): V/V(1) 
+iii(0): IV(1) ii7(1) 
+vi(0): IV(4) 
+
+*hound_dog_dt.txt
+*Graph:
+I(0): IV(8) V(8) 
+IV(0): I(16) 
+R(0): I(1) 
+V(0): IV(8) 
+
+*dream_on_dt.txt
+*Graph:
+IV(0): V(4) 
+IVd7(0): iih7(11) bVIId7(3) 
+V(0): iih7/V(1) i(3) i7(2) IV(1) bVI(3) 
+V6(0): i(3) 
+V7(0): i(3) 
+bIII(0): IV(1) 
+bVI(0): bVII(10) V(3) 
+bVII(0): bVI(7) i(10) iih7/V(3) 
+bVIId7(0): V6(3) 
+i(0): v(11) V7(3) IVd7(1) bVII(10) V(2) IV(2) ii(1) 
+i7(0): IVd7(2) 
+ii(0): bIII(1) 
+iih43(0): V(1) 
+iih7(0): i(10) iih7/V(1) 
+iih7/V(0): V(1) iih43(1) bVI(3) 
+v(0): IVd7(11) 
+
+*good_vibrations_tdc.txt
+*Graph:
+I(4): IV(1) ii(5) V7(1) Id7(1) 
+IV(0): I(1) 
+Id7(6): i(1) I(2) 
+V(2): i(2) Id7(2) I(5) 
+V7(0): Id7(1) 
+bVI(0): V(4) 
+bVII(0): bVI(4) 
+i(0): bVII(4) 
+ii(0): V(5) 
+
+*help_dt.txt
+*Graph:
+I(0): iii(6) ii(3) vi(1) 
+IV(0): bVII(6) 
+V(0): I(4) 
+bVII(0): V(4) I(6) 
+ii(0): bVII(4) 
+iii(0): vi(6) 
+vi(0): IV(6) I(1) 
+
+*dancing_queen_dt.txt
+*Graph:
+I(0): IV64(26) V6(3) vi(3) 
+I64(0): V(6) V7(3) 
+IV(0): ii7(3) 
+IV6(0): I64(3) 
+IV64(0): I(25) 
+V(0): V/vi(3) vi(3) I(2) 
+V/vi(0): vi(3) 
+V6(0): IV6(3) 
+V65/V(0): IV(3) 
+V7(0): I64(6) 
+ii(0): V(2) 
+ii7(0): I(3) 
+vi(0): V65/V(3) V7(3) I(1) ii(2) 
+
+*love_and_happiness_tdc.txt
+*Graph:
+V42/bVI(0): i(3) 
+V7(0): i(10) 
+bIII(0): V42/bVI(3) bV(5) bVId7(2) 
+bV(0): iv(8) 
+bVII(0): i(6) bV(3) 
+bVId7(0): V7(10) 
+i(0): iv7(1) bVId7(8) bIII(2) bVII(9) 
+iv(0): bIII(8) 
+iv7(0): i(1) 
+
+*me_and_bobby_mcgee_tdc.txt
+*Graph:
+I(1): IV64(1) V(14) V7/IV(2) IV(2) 
+IV(0): I(6) 
+IV64(0): I(1) 
+V(0): I(12) IV(2) 
+V7/IV(0): IV(2) 
+
+*fortunate_son_tdc.txt
+*Graph:
+I(0): bVII(6) v(8) 
+IV(0): I(14) 
+bVII(0): IV(6) 
+v(0): IV(8) 
+
+*the_dock_of_the_bay_tdc.txt
+*Graph:
+I(0): III(6) VI(10) II(3) V(3) bVII(1) 
+II(0): I(9) 
+III(0): IV(6) 
+IV(0): II(6) I(3) 
+V(0): IV(3) I(1) 
+VI(0): I(9) 
+bVII(0): V(1) 
+
+*heartbreak_hotel_dt.txt
+*Graph:
+I(0): IVd7(6) bII7(1) 
+I7(0): 
+IVd7(0): V7(6) 
+R(0): I(1) 
+V7(0): I(6) 
+bII7(0): I7(1) 
+
+*you_cant_always_get_what_you_want_dt.txt
+*Graph:
+I(0): IV(71) 
+II(0): IV(7) 
+IV(0): I(69) II(7) ii64(1) 
+IV64(0): iis4(1) 
+R(0): I(1) 
+Vs4(0): I(1) 
+ii64(0): iii64(1) 
+iii64(0): IV64(1) 
+iis4(0): Vs4(1) 
+
+*da_doo_ron_ron_tdc.txt
+*Graph:
+I(0): IV(18) V(3) 
+IV(0): V(15) I(3) 
+V(0): I(18) 
+
+*tutti_frutti_dt.txt
+*Graph:
+I(0): IV(9) V(6) 
+IV(0): I(15) 
+V(0): IV(6) 
+
+*youve_lost_that_lovin_feelin_dt.txt
+*Graph:
+I(0): bVII(3) ii(10) IV(14) 
+IV(0): V11(2) V(14) ii(14) 
+R(0): bVII(1) 
+V(0): I(6) IV(14) 
+V11(0): V(2) 
+bVII(0): I(4) v(5) 
+ii(0): iii(2) V(4) bVII(4) I(14) 
+iii(0): IV(2) 
+v(0): I(3) bVII(1) 
+
+*blueberry_hill_tdc.txt
+*Graph:
+I(0): IV(2) V7(4) V11(4) iv(2) bVII(1) V7/IV(2) V(1) 
+III7(0): V7(2) 
+IV(0): I(5) 
+V(0): I(1) 
+V/iii(0): iii(4) III7(2) 
+V11(0): I(4) 
+V7(0): I(4) IV(2) 
+V7/IV(0): V/iii(2) 
+bVII(0): I(1) 
+iii(0): V/iii(4) 
+iv(0): I(2) 
+
+*brown-eyed_girl_dt.txt
+*Graph:
+I(0): IV(20) V(23) vi(3) 
+IV(0): I(20) V(6) 
+V(0): I(25) IV(3) 
+vi(0): IV(3) 
+
+*in_the_midnight_hour_dt.txt
+*Graph:
+I(0): IV(50) bVII(1) 
+IV(0): bIII(1) I(46) V(5) bVII(2) 
+V(0): IV(5) I(4) 
+bIII(0): I(1) 
+bVII(0): V(4) 
+
+*blowin_in_the_wind_dt.txt
+*Graph:
+I(0): IV(30) 
+IV(0): V(24) I(6) 
+V(0): I(24) 
+
+*cathys_clown_dt.txt
+*Graph:
+I(0): V(39) IV(10) 
+IV(0): V(3) I(8) vi(2) 
+V(0): I(40) vi(3) 
+vi(0): IV(3) V(2) 
+
+*eight_miles_high_tdc.txt
+*Graph:
+bIII(0): bVII(12) 
+bVI(0): bIII(6) i(6) 
+bVII(0): bVI(12) 
+i(0): ii(6) 
+ii(0): bIII(6) 
+
+*imagine_tdc.txt
+*Graph:
+I(0): IV(14) III(6) 
+III(0): IV(6) 
+IV(0): I(11) vi64(3) V(8) 
+V(0): I(9) IV(2) 
+ii(0): ii42(3) 
+ii42(0): V(3) 
+vi64(0): ii(3) 
+
+*dancing_in_the_street_tdc.txt
+*Graph:
+I64(0): V(2) 
+IV(0): Id7(2) 
+Id7(0): IV(2) V/vi(2) 
+V(0): Id7(2) 
+V/vi(0): vi(2) 
+ii(0): I64(2) 
+vi(0): ii(2) 
+
+*the_sounds_of_silence_tdc.txt
+*Graph:
+I(0): IV(10) vi(5) V(5) 
+IV(0): I(15) 
+V(0): i9(5) 
+bVII(0): i9(5) 
+i9(0): bVII(5) vi(5) 
+vi(0): IV(5) I(5) 
+
+*rock_around_the_clock_dt.txt
+*Graph:
+I(0): V(1) IVd7(7) V7(7) IV(1) 
+IV(0): iv(1) 
+IVd7(0): I(7) 
+V(0): I(2) 
+V7(0): I(7) 
+iv(0): V(1) 
+
+*foxey_lady_dt.txt
+*Graph:
+IV(0): i(9) 
+bVII(0): IV(9) 
+i(0): bVII(9) IV(1) 
+
+*my_generation_dt.txt
+*Graph:
+I(1): bVII(32) ii65(18) 
+bVII(0): I(32) 
+ii65(0): I(18) 
+
+*earth_angel_dt.txt
+*Graph:
+I(0): vi(15) IV(8) V/V(2) 
+IV(0): V(15) I(8) 
+V(0): I(17) 
+V/V(0): V(2) 
+vi(0): IV(15) 
+
+*all_i_have_to_do_is_dream_tdc.txt
+*Graph:
+I(0): vi(19) IV(2) V/IV(4) 
+IV(0): V(19) I(2) iii(4) 
+V(0): I(22) 
+V/IV(0): IV(4) 
+V/V(0): V(2) 
+ii(0): V(2) 
+iii(0): ii(2) V/V(2) 
+vi(0): IV(19) 
+
+*living_for_the_city_dt.txt
+*Graph:
+I(0): IV(6) Id42(6) R(1) 
+IV(0): V(6) 
+Id42(0): vih7(6) 
+R(0): I(1) 
+V(0): I(6) 
+bII(0): I(5) 
+bIII(0): bII(6) 
+bV(0): bVd42(6) 
+bVIs4(0): bV(6) 
+bVd42(0): bIII(6) 
+vih7(0): bVIs4(6) 
+
+*maybellene_tdc.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(7) 
+V(0): I(8) 
+
+*suspicious_minds_tdc.txt
+*Graph:
+I(0): IV64(26) iii(2) IV(1) V(1) 
+IV(0): IV64/IV(24) I(13) V(7) iii(2) Vs4/vi(1) 
+IV64(0): I(14) IV(12) 
+IV64/IV(0): IV(12) V(12) 
+V(0): IV(16) vi(3) I(3) 
+V/vi(0): vi(1) 
+Vs4/vi(0): V/vi(1) 
+iii(0): V(2) IV(6) 
+vi(0): iii(4) 
+
+*little_red_corvette_dt.txt
+*Graph:
+I(0): IV(20) V(1) 
+IV(0): V(55) 
+R(0): IV(1) 
+V(0): vi(26) IV(12) I(21) 
+vi(0): IV(22) V(4) 
+
+*stand_by_me_tdc.txt
+*Graph:
+I(0): vi(10) 
+IV(0): V(10) 
+V(0): I(10) 
+vi(0): IV(10) 
+
+*god_only_knows_dt.txt
+*Graph:
+I(0): IV(2) bVII64(1) 
+I6(0): ii(1) ii7(10) IV(6) 
+I64(0): viix42(4) viih7/V(4) 
+IV(0): I(2) I6(11) 
+IV64(0): bVII64(1) bIII(2) 
+V42(0): I64(4) 
+bIII(0): IV64(1) bVII64(1) 
+bVII64(0): iih65/ii(4) 
+ii(0): IV64(1) V42(4) 
+ii7(0): I(1) IV64(1) bVII64(1) I6(7) 
+iih65/ii(0): ii(4) 
+viih7/V(0): IV(4) 
+viix42(0): I64(4) 
+
+*brown-eyed_girl_tdc.txt
+*Graph:
+I(0): IV(20) V(23) vi(3) 
+IV(0): I(20) V(6) 
+V(0): I(25) IV(3) 
+vi(0): IV(3) 
+
+*my_generation_tdc.txt
+*Graph:
+I(0): V42/IV(60) 
+V42/IV(0): I(60) 
+
+*sympathy_for_the_devil_dt.txt
+*Graph:
+I(0): bVII(31) V(10) 
+IV(0): I(31) 
+R(0): I(1) 
+V(0): I(10) 
+bVII(0): IV(31) 
+
+*strawberry_fields_forever_dt.txt
+*Graph:
+I(0): v(4) V(3) vi(3) IV(2) 
+IV(0): I(10) V/ii(4) V(7) 
+V(0): V7(4) IV(5) I(3) 
+V/ii(0): IV(4) 
+V7(0): vi(4) 
+V7/ii(0): IV(4) 
+iii6(0): IV(3) 
+v(0): V7/ii(4) 
+vi(0): V(1) iii6(3) IV(3) 
+
+*river_deep_mountain_high_tdc.txt
+*Graph:
+I(0): IV(5) V(6) bVII(6) 
+IV(0): I(5) 
+V(0): I(6) 
+bVII(0): I(6) 
+
+*long_tall_sally_tdc.txt
+*Graph:
+I(0): IV(8) V(8) 
+IV(0): I(16) 
+R(0): I(1) 
+V(0): IV(8) 
+
+*good_vibrations_dt.txt
+*Graph:
+I(3): IV(60) ii(5) V11(1) 
+IV(0): I(57) i(1) bVII(2) 
+V(2): i(2) I(7) 
+V11(0): I(1) 
+bVII(0): IV(1) I(1) 
+i(0): v65(4) 
+ii(0): V(5) 
+iv65(0): V(4) 
+v65(0): iv65(4) 
+
+*voodoo_child_tdc.txt
+*Graph:
+IV6(0): i(2) 
+R(0): i(1) 
+bVII(0): i(2) 
+bVId7(0): bVII(2) 
+i(0): i42(2) bVId7(2) 
+i42(0): IV6(2) 
+
+*not_fade_away_dt.txt
+*Graph:
+I(0): IV(38) 
+IV(0): I(38) bVII(10) 
+bVII(0): IV(10) 
+
+*tutti_frutti_tdc.txt
+*Graph:
+I(0): IV(9) V(6) 
+IV(0): I(15) 
+V(0): IV(6) 
+
+*dancing_in_the_street_dt.txt
+*Graph:
+I(0): IV(2) V/vi(2) 
+IV(0): I(2) 
+V(0): I(2) 
+V/vi(0): vi(2) 
+ii(0): V(2) 
+vi(0): ii(2) 
+
+*bo_diddley_tdc.txt
+*Graph:
+I(0): bVII(6) IV(2) 
+IV(0): bVI(1) I(2) V(1) 
+V(0): IV(1) 
+bVI(0): IV(1) 
+bVII(0): I(6) 
+
+*loser_dt.txt
+*Graph:
+I(0): R(1) 
+R(0): I(1) 
+
+*go_your_own_way_dt.txt
+*Graph:
+I(0): V(6) vi(3) 
+IV(0): I(6) V(18) 
+V(0): IV(6) vi(15) I(2) 
+vi(0): IV(18) 
+
+*you_send_me_dt.txt
+*Graph:
+I(0): vi(21) IV(3) ii(6) V7/II(2) 
+IV(0): I(3) 
+R(0): I(1) 
+V(0): I(6) 
+V7(0): I(23) 
+V7/II(0): V7/V(2) 
+V7/V(0): V7(2) 
+ii(0): V(6) 
+ii7(0): V7(21) 
+vi(0): ii7(21) 
+
+*i_want_to_hold_your_hand_tdc.txt
+*Graph:
+I(0): V(8) vi(6) ii(2) IV(2) 
+III(0): I(4) IV(5) 
+IV(0): V(18) I(1) 
+R(0): IV(1) 
+V(0): IV(7) I(14) vi(8) III(1) 
+ii(0): V(4) 
+vi(0): III(8) IV(4) ii(2) 
+
+*born_to_run_dt.txt
+*Graph:
+I(0): IV(23) vi(5) v(1) V(1) V/V(1) 
+IV(0): V(25) vi64(6) 
+V(0): I(21) IV(3) vi(1) bVII(2) 
+V/V(0): V(1) 
+bVII(0): I(2) 
+ii7(0): vi64(6) 
+v(0): I(1) 
+vi(0): IV(5) I(1) 
+vi64(0): ii7(6) I(6) 
+
+*while_my_guitar_gently_weeps_dt.txt
+*Graph:
+I(0): iii(4) 
+IV(0): V(7) 
+IV6(0): bVI(13) 
+V(0): i(12) I(4) 
+bIII(0): V(6) 
+bVI(0): i(13) 
+bVII(0): IV(7) bIII(6) 
+i(0): i42(13) bVII(13) 
+i42(0): IV6(13) 
+ii(0): V(4) 
+iii(0): vi(4) ii(4) 
+vi(0): iii(4) 
+
+*you_really_got_me_dt.txt
+*Graph:
+I(0): V/V(3) 
+IV(0): I(2) 
+V(0): IV(2) 
+V/V(0): V(3) 
+
+*in_bloom_tdc.txt
+*Graph:
+I(0): VI(8) bVI(14) vi(24) 
+II7(0): IVd7(14) 
+III(0): I(3) 
+IV(0): bII(14) 
+IVd7(0): II7(8) I(6) 
+V(0): bVII(8) 
+VI(0): V(8) 
+VII(0): I(11) 
+bII(0): VII(11) III(3) 
+bVI(0): IV(14) 
+bVII(0): I(8) 
+vi(0): I(18) II7(6) 
+
+*thunder_road_dt.txt
+*Graph:
+I(0): vi(6) IV(17) iii(7) V7(4) V(11) 
+IV(0): I(15) V(18) iii(1) ii(1) 
+V(0): I(20) IV(7) iii(1) 
+V7(0): I(4) 
+ii(0): IV(1) 
+iii(0): IV(8) vi(1) 
+vi(0): I(5) IV(2) 
+
+*walk_on_by_tdc.txt
+*Graph:
+I(0): IV(14) i(1) 
+IV(0): V(3) I(12) i(1) 
+IVd7(0): i(5) iii(3) 
+V(0): I(3) 
+V/ii(0): ii(2) 
+i(0): IVd7(8) 
+ii(0): iii(6) 
+iii(0): V/ii(2) ii(4) vi(3) IV(3) 
+vi(0): iii(3) 
+
+*shake_rattle_and_roll_tdc.txt
+*Graph:
+I(0): IV(9) V(9) 
+IV(0): I(18) 
+V(0): IV(9) 
+
+*wont_get_fooled_again_dt.txt
+*Graph:
+I(0): bVII(59) IV(39) II(1) 
+II(0): V(1) I(1) 
+IV(0): I(94) V(6) II(1) 
+V(0): bIII(6) bVII(6) I(1) 
+bIII(0): bVII(6) 
+bVII(0): IV(62) I(3) V(6) 
+
+*the_times_they_are_a-changin_tdc.txt
+*Graph:
+I(0): vi(20) ii(5) V(5) I6(3) IV9(1) 
+I6(0): V(8) IV9(3) 
+IV(0): I(14) V(6) 
+IV9(0): I6(8) V(4) 
+V(0): I(19) IV9(8) 
+ii(0): V(5) 
+vi(0): IV(20) 
+
+*london_calling_dt.txt
+*Graph:
+bII7(0): i(16) i6(12) 
+bIII(0): i(21) 
+bVII(0): i(3) 
+i(0): bII7(28) bIII(9) bVII(3) 
+i6(0): bIII(12) 
+
+*hot_stuff_tdc.txt
+*Graph:
+bIII(0): iv(12) 
+bVI(0): bVII(2) 
+bVII(0): i(18) 
+i(0): bVII(16) iv(24) bIII(12) bVI(2) v(1) 
+iv(0): v(36) 
+v(0): i(36) 
+
+*the_boxer_dt.txt
+*Graph:
+I(0): vi(16) V(6) iii(1) 
+IV(0): I(10) 
+V(0): I(10) IV(10) 
+V7(0): I(3) vi(7) 
+iii(0): vi(11) 
+vi(0): V(14) iii(10) V7(10) 
+
+*roll_over_beethoven_dt.txt
+*Graph:
+I(0): IV(15) V(9) 
+IV(0): I(21) 
+V(0): I(3) IV(6) 
+
+*who_do_you_love_tdc.txt
+*Graph:
+I(0): 
+R(0): V(1) 
+V(0): I(1) 
+
+*suspicious_minds_dt.txt
+*Graph:
+I(0): IV(13) iii(2) V(1) 
+IV(0): V(20) I(13) 
+V(0): IV(14) vi(4) I(3) 
+iii(0): IV(6) 
+vi(0): iii(4) 
+
+*in_the_still_of_the_night_dt.txt
+*Graph:
+I(0): vi(9) IV(6) V7(2) 
+IV(0): V7(11) I(4) 
+V7(0): I(12) 
+vi(0): IV(9) 
+
+*sabotage_dt.txt
+*Graph:
+
+*superstition_dt.txt
+*Graph:
+IV(0): V(4) 
+R(0): i(1) 
+V(0): bVIb5(4) bVb5(4) i(4) 
+bVIb5(0): V(4) 
+bVb5(0): IV(4) 
+i(0): V(4) 
+
+*she_loves_you_tdc.txt
+*Graph:
+I(0): vi(12) 
+II(0): IV(1) iv(2) 
+IV(0): I(2) 
+R(0): vi(1) 
+V(0): I(11) vi(2) 
+iii(0): V(6) 
+iv(0): V(7) 
+vi(0): II(3) iii(6) iv(5) IV(1) 
+
+*up_on_the_roof_dt.txt
+*Graph:
+I(0): vi(12) IV(3) 
+IV(0): ii(7) I(3) 
+V(0): I(3) 
+V11(0): I(7) 
+ii(0): V11(7) 
+ii65(0): V(3) 
+vi(0): IV(7) ii65(3) I(1) 
+
+*i_still_havent_found_what_im_looking_for_tdc.txt
+*Graph:
+I(0): IV(7) V(8) 
+IV(0): I(15) 
+V(0): IV(8) 
+
+*loser_tdc.txt
+*Graph:
+I(0): R(1) 
+R(0): I(1) 
+
+*thunder_road_tdc.txt
+*Graph:
+I(0): vi(6) IV(17) iii(7) V(11) 
+IV(0): I(15) V(17) iii(1) ii(2) 
+V(0): I(20) IV(7) iii(1) 
+ii(0): V(1) IV(1) 
+iii(0): IV(8) vi(1) 
+vi(0): I(5) IV(2) 
+
+*when_doves_cry_tdc.txt
+*Graph:
+R(0): bVI(1) 
+V(0): i(34) 
+bVI(0): i(24) 
+bVII(0): bVI(23) i(28) V(8) 
+i(0): bVII(38) V(26) iv(23) 
+iv(0): bVII(21) i(2) 
+
+*jumpin_jack_flash_dt.txt
+*Graph:
+I(0): IV(22) bVII(22) bIII(3) 
+IV(0): bVII(7) I(20) 
+bIII(0): bVII(6) 
+bVII(0): I(26) bIII(3) IV(6) 
+
+*god_save_the_queen_dt.txt
+*Graph:
+I(5): IV(27) V(12) 
+IV(0): I(24) iii(9) 
+V(0): I(12) 
+ii(0): IV(6) I(3) 
+iii(0): ii(9) 
+
+*imagine_dt.txt
+*Graph:
+I(0): IV(14) III(6) 
+III(0): IV(6) 
+IV(0): I(11) vi64(3) V(8) 
+IV64(0): V(3) 
+V(0): I(9) IV(2) 
+ii(0): IV64(3) 
+vi64(0): ii(3) 
+
+*youve_lost_that_lovin_feelin_tdc.txt
+*Graph:
+I(0): Id9(3) ii(10) IV(14) 
+I64(0): V(2) 
+IV(0): I64(2) V(14) V64(14) 
+Id9(0): I(7) 
+R(0): Id9(1) 
+V(0): I(6) IV(14) 
+V64(0): I(14) 
+ii(0): iii(2) V(4) Id9(4) 
+iii(0): IV(2) 
+
+*light_my_fire_dt.txt
+*Graph:
+I(1): V(3) IV(4) VI(3) II(3) bIII(4) 
+II(0): v(2) i(1) 
+IV(0): V(8) I(3) 
+V(0): bVII(3) v(2) I(8) 
+VI(0): IV(3) 
+bII(0): V(3) 
+bIII(0): bVI(3) bVII(4) 
+bVI(0): bII(3) 
+bVII(0): bIII(3) I(4) 
+i(0): ii(140) 
+ii(0): i(139) I(1) 
+iii(0): v(12) IV(4) 
+v(0): iii(16) 
+
+*purple_haze_dt.txt
+*Graph:
+IV(0): i(11) V(2) 
+V(0): bVII(2) 
+bIII(0): IV(11) 
+bVII(0): i(11) 
+i(0): bIII(11) IV(2) ii(10) 
+ii(0): bVII(10) 
+
+*lets_stay_together_dt.txt
+*Graph:
+I(0): vi7(3) vii(3) iii7(3) 
+IV(0): iv6(3) iii7(1) 
+IV7(0): iii7(2) 
+V(0): ii7(1) I(1) 
+V7(0): I(1) 
+bIII(0): IV(1) 
+bIII7(0): ii7(1) 
+ii(0): I(6) V(3) 
+ii7(0): iii7(5) V7(1) IV7(2) bIII7(1) bIII(1) 
+iii(0): ii(3) 
+iii7(0): ii7(5) ii(6) vi7(3) 
+iv6(0): iii7(3) 
+vi7(0): IV(3) iii(3) I(1) ii7(2) 
+vii(0): vi7(3) 
+
+*honky_tonk_women_tdc.txt
+*Graph:
+I(0): IV(6) V/V(3) V(11) 
+IV(0): I(6) 
+R(0): I(1) 
+V(0): I(14) 
+V/V(0): V(3) 
+
+*heartbreak_hotel_tdc.txt
+*Graph:
+I(0): IV(6) bII(1) 
+IV(0): V(6) 
+R(0): I(1) 
+V(0): I(6) 
+bII(0): I(1) 
+
+*a_whiter_shade_of_pale_tdc.txt
+*Graph:
+I(0): iii64(11) IV(5) V(2) 
+I64(0): IV(11) 
+IV(0): vi64(11) V(3) I(2) 
+IV64(0): V(9) 
+V(0): I(15) 
+ii(0): IV64(9) V(2) 
+iii64(0): vi(11) 
+vi(0): I64(11) 
+vi64(0): ii(11) 
+
+*when_a_man_loves_a_woman_dt.txt
+*Graph:
+I(0): V6(9) V(8) V7/IV(1) IV(2) vi(1) 
+IV(0): V(9) I(3) 
+V(0): I(17) 
+V/V(0): V(1) 
+V6(0): vi(9) 
+V7/IV(0): IV(1) 
+iii6(0): IV(9) 
+vi(0): iii6(9) V/V(1) 
+
+*honky_tonk_women_dt.txt
+*Graph:
+I(0): IV(6) V/V(3) V(11) 
+IV(0): I(6) 
+R(0): I(1) 
+V(0): I(14) 
+V/V(0): V(3) 
+
+*dream_on_tdc.txt
+*Graph:
+IV(0): v6(3) V(4) 
+IV6(0): iv6(5) V(1) 
+V(0): IV6(1) i(3) IV(1) bVI(3) 
+V6(0): i(3) 
+bIII(0): IV(1) 
+bVI(0): bVII(10) 
+bVII(0): bVI(7) i(10) IV6(3) 
+i(0): v6(1) IV(5) IV6(1) bVII(10) ii(1) 
+ii(0): bIII(1) 
+iv6(0): i(1) V(4) 
+v6(0): IV6(1) V6(3) 
+
+*living_for_the_city_tdc.txt
+*Graph:
+#IV(0): V42/VII(6) 
+'B'(0): is(1) 
+I(0): I#9(2) R(1) V42/IV(2) 
+I#9(0): IV(6) V42/IV(4) 
+IV(0): V(6) 
+R(0): I#9(1) 
+V(0): I#9(6) 
+V42/IV(0): vih7(6) 
+V42/VII(0): bIII(6) 
+Warning:(0): 'B'(1) 
+bII(0): I(6) 
+bIII(0): bII(6) 
+bVI(0): #IV(6) 
+but(0): never(1) 
+defined(0): but(1) 
+is(0): defined(1) 
+never(0): used(1) 
+used(0): I#9(1) 
+vih7(0): bVI(6) 
+
+*stairway_to_heaven_dt.txt
+*Graph:
+IV(0): bVI7(4) bIII(8) bVI(2) i(12) bVII(6) 
+IV6(0): bVI7(6) 
+V6(0): i42(6) 
+bIII(0): IV(7) bVII(2) bVII6(21) 
+bVI(0): i(33) 
+bVI7(0): bVII6(6) i(4) 
+bVII(0): IV(8) bVI(23) 
+bVII6(0): i(18) bVI(8) IV(1) 
+i(0): V6(6) bIII(22) IV(16) bVII(23) 
+i42(0): IV6(6) 
+
+*maybellene_dt.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(7) 
+V(0): I(7) 
+
+*crazy_dt.txt
+*Graph:
+I(0): IV(1) iv6/ii(4) viio/ii(1) ii7(1) V7/V(1) V7(1) IV7(1) 
+IV(0): iii(3) viix7/V(1) 
+IV7(0): I(1) 
+V(0): I(5) viix42/V(1) 
+V65/IV(0): IV(1) 
+V7(0): I(2) 
+V7/V(0): V7(1) 
+V7/ii(0): ii(4) 
+ii(0): V(6) IV(2) viix7/ii(2) 
+ii7(0): viix42/V(1) 
+iii(0): ii(3) 
+iv6/ii(0): V7/ii(4) 
+viio/ii(0): ii(1) 
+viix42/V(0): I(1) V65/IV(1) 
+viix7/V(0): I(1) 
+viix7/ii(0): ii(2) 
+
+*ive_been_loving_you_too_long_dt.txt
+*Graph:
+I(0): V(9) V/vi(2) bVI(4) 
+IV(0): bVI(2) 
+R(0): I(1) 
+V(0): I(9) 
+V/vi(0): IV(2) 
+bVI(0): I(5) 
+
+*1999_tdc.txt
+*Graph:
+I(0): IV(10) 
+IV(0): vi7(10) 
+R(0): V7(1) 
+V7(0): I(1) 
+vi7(0): I(10) 
+
+*california_love_tdc.txt
+*Graph:
+R(0): bVII(1) 
+bVII(0): i(104) 
+i(0): bVII(103) 
+
+*like_a_rolling_stone_dt.txt
+*Graph:
+I(0): IV7(4) ii(12) IV(31) 
+IV(0): V(47) iii(8) 
+IV7(0): I(4) 
+V(0): I(34) IV(12) 
+ii(0): iii(8) I(8) IV(4) 
+iii(0): IV(8) ii(8) 
+
+*a_whiter_shade_of_pale_dt.txt
+*Graph:
+I(0): iii64(11) IV(5) V(2) 
+I64(0): IV(11) 
+IV(0): vi64(11) V(3) I(2) 
+IV6(0): V65(3) 
+IV64(0): V(9) 
+V(0): V42(9) IV6(3) I(2) 
+V42(0): iii(9) 
+V64(0): I(9) 
+V65(0): I(2) 
+V7(0): I(2) 
+ii(0): IV64(9) 
+ii7(0): V7(2) 
+iii(0): V64(9) 
+iii64(0): vi(11) 
+vi(0): I64(11) 
+vi64(0): ii(9) ii7(2) 
+
+*rock_and_roll_music_tdc.txt
+*Graph:
+I(0): IV(9) V(10) V7(4) 
+IV(0): I(5) V(4) 
+Id7(0): I(1) 
+V(0): I(14) 
+V7(0): I(4) 
+
+*lust_for_life_tdc.txt
+*Graph:
+I(0): V(11) 
+IV(0): V(5) 
+R(0): I(1) 
+V(0): I(11) bVII(5) 
+bVII(0): IV(5) 
+
+*let_it_be_tdc.txt
+*Graph:
+I(0): V(28) vi(7) IV(3) 
+I64(0): IV(7) 
+IV(0): I(38) 
+V(0): vi(9) IV(19) 
+vi(0): IV(9) I64(7) 
+
+*roll_over_beethoven_tdc.txt
+*Graph:
+I(0): IV(14) V(9) 
+IV(0): I(23) 
+V(0): IV(9) 
+
+*changes_tdc.txt
+*Graph:
+I(1): bIII(4) iii7(4) ii(5) I42(6) IV(2) IV64(1) vi7(1) 
+I42(0): vi7(6) 
+I64(0): IV(6) 
+I7(0): bII(1) 
+II(0): IV6(4) 
+IV(0): V(5) I(9) IV42(6) iii(4) 
+IV42(0): V/V(6) 
+IV6(0): I(4) 
+IV64(0): I(1) 
+V(0): IV(8) I(4) bVII(4) 
+V/V(0): V(3) vi7(3) 
+bII(0): ii7(1) I(1) 
+bIII(1): I(5) ii(1) 
+bVII(0): IV(4) 
+biii(0): ii(4) 
+ii(0): iii(5) V(4) bII(1) 
+ii7(0): bIII(1) 
+iii(0): biii(4) II(4) bIII(1) 
+iii7(0): IV(4) 
+vi7(0): I64(6) V(4) 
+
+*me_and_bobby_mcgee_dt.txt
+*Graph:
+I(1): IV(5) V(14) 
+IV(0): I(7) 
+V(0): I(12) IV(2) 
+
+*waterloo_sunset_dt.txt
+*Graph:
+I(0): V6(11) IV(2) 
+IV(0): ii(2) 
+IV6(0): I(5) ii(5) V(1) 
+IV64(0): V(3) 
+V(0): I(8) 
+V6(0): IV6(11) 
+V6/ii(0): IV64(3) 
+ii(0): V6/ii(3) V(4) 
+
+*i_fought_the_law_tdc.txt
+*Graph:
+I(0): IV(24) V(14) 
+IV(0): V(7) I(17) 
+R(0): I(1) 
+V(0): I(21) 
+
+*the_boxer_tdc.txt
+*Graph:
+I(0): vi(16) V(6) iii(1) 
+IV(0): I(10) 
+Id9(0): I(1) 
+V(0): V7(7) IV(10) I(6) vi(7) 
+V7(0): I(7) 
+iii(0): vi(11) 
+vi(0): V(24) iii(10) 
+
+*papas_got_a_brand_new_bag_tdc.txt
+*Graph:
+IVd7(0): Id7(8) 
+Id7(0): IVd7(4) V7(8) 
+V7(0): Id7(5) IVd7(4) 
+
+*heroes_dt.txt
+*Graph:
+I(0): IV(24) v(6) bVII(6) 
+IV(0): I(18) bVII(6) 
+IVd7(0): I(6) 
+bVII(0): I(6) IVd7(6) 
+ii(0): I(6) 
+v(0): ii(6) 
+
+*california_girls_dt.txt
+*Graph:
+I(0): Id7(1) bVII(4) ii(2) V(1) ii7(3) 
+IV(0): bVIId7(1) V(4) 
+Id7(0): IV(1) 
+V(0): I(5) 
+bVI(0): bvii7(2) 
+bVII(0): IV(4) i7(2) 
+bVIId7(0): I(1) 
+bvii7(0): I(2) 
+i7(0): bVI(2) 
+ii(0): bVII(2) 
+ii7(0): I(2) 
+
+*i_saw_her_standing_there_dt.txt
+*Graph:
+I(0): I6(4) V(8) IV(1) 
+I6(0): IV(4) 
+IV(0): bVI(4) V(2) Id7(2) I(2) 
+IVd7(0): Id7(4) 
+Id7(0): IVd7(4) V(4) IV(2) I(3) 
+V(0): I(5) Id7(6) IV(3) 
+bVI(0): I(4) 
+
+*you_really_got_me_tdc.txt
+*Graph:
+I(0): V/V(3) 
+IV(0): I(2) 
+V(0): IV(2) 
+V/V(0): V(3) 
+
+*redemption_song_dt.txt
+*Graph:
+I(0): IV(18) vi(12) 
+I6(0): ii(7) V(6) 
+IV(0): I(2) V(24) I6(13) 
+V(0): I(21) vi(9) 
+ii(0): I(6) viio6(1) 
+vi(0): IV(21) 
+viio6(0): 
+
+*i_heard_it_through_the_grapevine_dt.txt
+*Graph:
+IV(0): i(27) vi(3) 
+V(0): IV(6) 
+i(0): IV(21) V(6) 
+vi(0): IV(3) 
+
+*the_message_tdc.txt
+*Graph:
+R(0): i7(1) 
+i7(0): 
+
+*god_save_the_queen_tdc.txt
+*Graph:
+I(3): IV(27) V(12) 
+I6(0): IV(21) 
+IV(0): I6(21) I(24) iii(9) 
+V(2): I(12) 
+ii(0): IV(6) I(3) 
+iii(0): ii(9) 
+
+*please_please_please_dt.txt
+*Graph:
+I(0): IV(18) V(12) vi(6) 
+II(0): V(6) 
+IV(0): V(18) 
+R(0): I(1) 
+V(0): I(36) 
+vi(0): II(6) 
+
+*dont_worry_baby_tdc.txt
+*Graph:
+I(0): IV(10) ii(7) 
+IV(0): V(10) 
+R(0): I(1) 
+V(2): I(16) ii(6) 
+ii(0): V(13) 
+
+*redemption_song_tdc.txt
+*Graph:
+I(0): IV(18) vi(12) 
+I6(0): ii(8) V(4) 
+IV(0): I(4) I6(12) V(23) 
+V(0): I(18) vi(9) 
+V7(0): 
+ii(0): I(7) V7(1) 
+vi(0): IV(21) 
+
+*its_a_mans_mans_mans_world_dt.txt
+*Graph:
+V(0): bVIId7(1) i(3) 
+bVIId7(0): i(1) 
+i(0): V(1) v(28) 
+iv7(0): V(3) 
+v(0): i(24) iv7(3) 
+
+*i_walk_the_line_dt.txt
+*Graph:
+I(4): IV(6) V(16) 
+IV(0): I(6) 
+V(1): I(16) 
+
+*im_so_lonesome_i_could_cry_dt.txt
+*Graph:
+I(0): V(7) IV(6) 
+IV(0): I(6) 
+V(0): I(7) 
+
+*a_hard_days_night_dt.txt
+*Graph:
+I(0): IV(24) bVII(10) iii(2) vi(2) 
+IV(0): I(18) V(7) v7(1) 
+V(0): I(7) 
+bVII(0): I(10) 
+iii(0): vi(2) I(2) 
+v7(0): I(1) 
+vi(0): iii(2) IV(2) 
+
+*all_i_have_to_do_is_dream_dt.txt
+*Graph:
+I(0): vi(19) IV(5) V7/I(1) 
+IV(0): V(19) I(2) iii(4) 
+V(0): I(22) 
+V7/I(0): IV(1) 
+V7/V(0): V(2) 
+ii(0): V(2) 
+iii(0): ii(2) V7/V(2) 
+vi(0): IV(19) 
+
+*family_affair_dt.txt
+*Graph:
+V(0): ii7(25) 
+bIII6(0): iv(4) 
+bVI(0): bIII6(4) 
+bVII(0): i(2) ii7(2) 
+i(0): bVI(4) ii7(2) v(1) 
+ii7(0): V(26) i(3) 
+iv(0): bVII(4) 
+v(0): i(1) 
+
+*stand_by_me_dt.txt
+*Graph:
+I(0): vi(10) 
+IV(0): V(10) 
+V(0): I(10) 
+vi(0): IV(10) 
+
+*every_breath_you_take_dt.txt
+*Graph:
+I(0): vi(15) IV(2) V7/V(2) 
+IV(0): V(8) I(9) 
+V(0): I(3) vi(5) 
+V7/V(0): Vs4(2) 
+Vs4(0): I(2) 
+bVI(0): bVII(2) I(1) 
+bVII(0): bVI(2) 
+vi(0): IV(16) I(3) bVI(1) 
+
+*be-bop-a-lula_dt.txt
+*Graph:
+I(0): IV(6) V(6) 
+IV(0): I(12) 
+R(0): I(1) 
+V(0): IV(6) 
+
+*the_weight_tdc.txt
+*Graph:
+I(0): iii(20) V6(15) IV(7) 
+IV(0): I(42) 
+V(0): IV(1) 
+V6(0): IV(15) 
+iii(0): IV(20) 
+
+*lets_get_it_on_dt.txt
+*Graph:
+'Vr2'(0): is(1) 
+I(0): I6(40) 
+I6(0): IV(40) 
+IV(0): V(40) I(6) ii(2) 
+V(0): I(33) IV(8) 
+Warning:(0): 'Vr2'(1) 
+but(0): never(1) 
+defined(0): but(1) 
+ii(0): V(2) 
+is(0): defined(1) 
+never(0): used(1) 
+used(0): I(1) 
+
+*purple_rain_tdc.txt
+*Graph:
+I(0): vi(19) IV(3) 
+IV(0): I(16) 
+V(0): IV(13) V7(3) 
+V7(0): I(6) 
+vi(0): V(16) V7(3) 
+
+*bridge_over_troubled_water_dt.txt
+*Graph:
+I(0): IV64(11) IV(9) ii7(3) V7(3) V7/IV(3) V(6) 
+I64(0): V(3) iih65/ii(1) V7/ii(6) 
+IV(0): viix7/V(7) iio6(1) bVII(3) I(9) V/V(3) viix7/vi(3) viix42(1) V7/vi(2) vi(2) iv(2) 
+IV64(0): I(11) 
+V(0): IV(9) I(3) 
+V/V(0): V(3) 
+V7(0): I(3) 
+V7/IV(0): IV(3) 
+V7/V(0): I64(2) 
+V7/ii(0): IV(7) 
+V7/vi(0): vi(2) 
+bVII(0): IV(3) 
+ii7(0): I(3) 
+iih65/ii(0): V7/ii(1) 
+iio6(0): I(1) 
+iv(0): I(2) 
+vi(0): I(3) V7/V(2) IV(2) 
+viix42(0): I(1) 
+viix7/V(0): I64(7) 
+viix7/vi(0): vi(3) 
+
+*when_a_man_loves_a_woman_tdc.txt
+*Graph:
+I(0): V6(9) V(8) V7/IV(1) IV(2) vi(1) 
+I64(0): IV(9) 
+IV(0): V(9) I(3) 
+V(0): I(17) 
+V6(0): vi(9) 
+V7/IV(0): IV(1) 
+V7/V(0): V(1) 
+vi(0): I64(9) V7/V(1) 
+
+*sweet_child_o_mine_dt.txt
+*Graph:
+I(0): bVII(10) V(8) i(1) 
+IV(0): I(10) bVI(11) i(1) 
+V(0): bVII(8) iv(4) 
+bIII(0): IV(12) i(10) 
+bVI(0): V(4) bVII(11) 
+bVII(0): IV(10) I(8) bIII(10) i(1) 
+i(0): bVI(4) bIII(12) 
+iv(0): i(4) 
+
+*mr_tambourine_man_dylan_tdc.txt
+*Graph:
+I(0): IV6(71) ii(4) 
+IV6(0): V(37) I(47) 
+V(0): I(27) IV6(14) 
+ii(0): V(4) 
+
+*born_to_be_wild_dt.txt
+*Graph:
+I(0): bIII(14) bVII(8) 
+IV(0): I(12) bIII(2) 
+bIII(0): IV(14) I(2) 
+bVII(0): I(8) 
+
+*house_of_the_rising_sun_dt.txt
+*Graph:
+IV(0): bVI(22) 
+V(0): i(15) 
+V7(0): i(14) 
+bIII(0): IV(22) V(7) 
+bVI(0): i(22) 
+i(0): bIII(29) V7(14) V(8) iv(5) 
+iv(0): i(5) 
+
+*rockin_in_the_free_world_tdc.txt
+*Graph:
+I(0): V(12) 
+II(0): i(3) 
+IV(0): vi(12) 
+V(0): IV(12) 
+bVI(0): i(42) I(3) 
+bVII(0): bVI(46) 
+i(0): bVII(46) 
+vi(0): I(9) II(3) 
+
+*california_dreamin_tdc.txt
+*Graph:
+V(0): bVI(3) i(13) 
+Vs4(0): i(3) V(12) 
+bIII(0): V(4) 
+bVI(0): bVII(13) bIII(4) Vs4(4) i(1) 
+bVII(0): bVI(14) Vs4(10) i(2) 
+i(0): bVII(13) bVI(5) 
+
+*i_got_you_tdc.txt
+*Graph:
+IVd7(0): Id7(14) V7(2) 
+Id7(0): IVd7(9) V7(7) 
+R(0): Id7(1) 
+V7(0): IVd7(7) Id7(2) 
+
+*back_in_black_tdc.txt
+*Graph:
+I(0): bVII(27) V(16) IV(16) 
+IV(0): I(30) bIII(4) 
+IV6(0): I(25) IV(2) 
+R(0): I(1) 
+V(0): IV(8) bIII(8) 
+bIII(0): bVII(12) 
+bVII(0): IV6(27) IV(8) I(3) iv(1) 
+iv(0): I(1) 
+
+*maggie_may_dt.txt
+*Graph:
+I(0): ii7(12) V(8) IV(11) ii(3) 
+I6(0): ii(4) 
+IV(0): I(27) V(4) ii(3) 
+V(0): IV(8) ii(12) I(7) 
+ii(0): iii(4) I6(4) V(15) IV(3) 
+ii7(0): IV(12) 
+iii(0): ii(4) 
+
+*should_i_stay_or_should_i_go_dt.txt
+*Graph:
+I(0): IV(36) V(7) 
+IV(0): I(36) bIII(7) 
+V(0): I(7) 
+bIII(0): IV(7) 
+
+*i_cant_stop_loving_you_tdc.txt
+*Graph:
+I(0): V(10) V7/IV(7) IV(5) 
+IV(0): I(13) V7/IV(2) 
+V(0): I(8) V7(2) 
+V7(0): I(2) 
+V7/IV(0): IV(10) 
+
+*maggie_may_tdc.txt
+*Graph:
+I(0): V7s4(12) vi(1) V(7) IV(11) ii(4) 
+I6(0): ii(3) 
+IV(0): I(30) V(4) ii(3) 
+V(0): IV(11) ii(12) I(4) 
+V7s4(0): IV(12) 
+ii(0): iii(4) I(1) V(15) I6(3) IV(3) 
+iii(0): ii(4) 
+vi(0): V(1) 
+
+*georgia_on_my_mind_dt.txt
+*Graph:
+I(0): iii64(1) V7/vi(6) IVd7(2) IV(1) 
+I64(0): ii7(1) V7/ii(4) bIId7(1) 
+II(0): vi(1) 
+IV(0): viix7/V(1) 
+IV/vi(0): vi(1) 
+IVd7(0): viix7/V(4) I(2) vi(1) 
+Id7(0): 
+V(0): I(1) 
+V43/IV(0): IVd7(4) 
+V7(0): I(6) bVIId7(1) iih43/ii(1) 
+V7/V(0): V7(6) V(1) 
+V7/ii(0): V7/V(7) 
+V7/iii(0): iii(2) 
+V7/vi(0): vi(6) 
+bIIId7(0): ii7(1) 
+bIId7(0): Id7(1) 
+bVIId7(0): V7/ii(1) 
+ii(0): vi(2) iv(1) 
+ii7(0): V7(2) 
+iih43/ii(0): V7/ii(1) 
+iii(0): V7/ii(1) bIIId7(1) 
+iii64(0): vi(1) 
+iv(0): V7/iii(1) 
+iv6(0): viix7/V(1) 
+vi(0): iv6(1) V43/IV(4) IV/vi(1) V7/iii(1) ii(3) IVd7(1) II(1) 
+viix7/V(0): I64(6) 
+
+*paranoid_android_tdc.txt
+*Graph:
+I(0): bVI(18) bVII(6) IId7/vi(4) 
+I6(0): ii7(4) 
+IId7/vi(0): V/vi(3) i(1) 
+IV(0): I6(4) 
+V/vi(0): vi(8) v(3) 
+V6/v(0): v6/v(4) 
+V65(0): i(18) I(6) 
+V7/ii(0): i(3) iv(1) 
+bVI(0): bVII(18) 
+bVII(0): I(18) i(5) 
+bVIId7(0): i(5) 
+i(0): vih7(8) v6(4) V65(24) v(1) 
+ii7(0): I(4) 
+iv(0): iv42(5) 
+iv42(0): bVIId7(5) 
+v(0): V6/v(4) 
+v6(0): V7/ii(4) 
+v6/v(0): V/vi(4) 
+vi(0): V/vi(4) vi42(4) 
+vi42(0): IV(4) 
+vih7(0): i(5) iv(3) 
+
+*rave_on_dt.txt
+*Graph:
+I(0): IV(17) V(11) 
+IV(0): I(17) 
+R(0): I(1) 
+V(0): I(11) 
+
+*stairway_to_heaven_tdc.txt
+*Graph:
+IV(0): bVI7(6) bIII(6) i7(12) bIII+9(2) 
+IV6(0): bVI7(6) 
+V6(0): i42(6) 
+bIII(0): IV(6) bVII(2) bVII6(20) 
+bIII+9(0): IV(1) bVII6(1) 
+bVI(0): i(31) 
+bVI7(0): bVII(6) i(6) 
+bVII(0): i(6) IV(2) i7(1) bVI(23) 
+bVII6(0): i(9) bVI(8) i7(3) IV(1) 
+i(0): V6(6) bIII(22) bVII(24) 
+i42(0): IV6(6) 
+i7(0): IV(16) 
+
+*tangled_up_in_blue_dt.txt
+*Graph:
+I(0): bVII(48) IV(16) 
+IV(0): I(16) V(24) 
+V(0): vi(16) bVII(8) 
+bVII(0): I(32) IV(24) 
+vi(0): I(16) 
+
+*be_my_baby_tdc.txt
+*Graph:
+I(0): ii(6) vi(4) 
+IV(0): V(4) 
+R(0): I(2) 
+V(0): I(8) V/vi(2) R(1) 
+V/V(0): V(2) 
+V/ii(0): V/V(2) 
+V/vi(0): V/ii(2) 
+ii(0): V(6) 
+vi(0): IV(4) 
+
+*eight_miles_high_dt.txt
+*Graph:
+bIII(0): bVII(12) ii(1) 
+bVI(0): bIII(6) i(6) 
+bVII(0): bVI(12) 
+i(0): ii(7) 
+ii(0): bIII(7) i(1) 
+
+*september_gurls_dt.txt
+*Graph:
+I(0): V(23) V11(1) 
+IV(0): V(1) I(17) ii7(6) 
+R(0): IV(1) 
+V(0): IV(23) V11(6) 
+V11(0): I(2) V(5) 
+ii7(0): I(6) 
+
+*all_along_the_watchtower_tdc.txt
+*Graph:
+R(0): bVII(1) 
+bVI(0): bVII(56) 
+bVII(0): i(56) bVI(56) 
+i(0): bVII(56) 
+
+*nothing_compares_2_u_tdc.txt
+*Graph:
+I(0): V6(12) V9(8) 
+IV(0): bVII(1) V(1) I(1) vi(7) 
+V(0): I(2) bVII(5) 
+V/vi(0): bVII(3) 
+V6(0): vi7(12) 
+V9(0): I(8) 
+bVII(0): IV(9) 
+vi(0): V(7) 
+vi7(0): I(8) V/vi(3) IV(1) 
+
+*born_to_run_tdc.txt
+*Graph:
+I(0): IV64(5) IV(13) V9/IV(3) vi(5) v(1) II(2) V(1) V/V(1) 
+II(0): IV(2) 
+IV(0): V(19) vi64(6) I(1) 
+IV64(0): V(5) 
+V(0): I(24) IV(3) vi(1) 
+V/V(0): V(1) 
+V9/IV(0): IV(3) 
+ii7(0): vi64(6) 
+v(0): V(1) 
+vi(0): IV(5) V(1) 
+vi64(0): ii7(6) I(6) 
+
+*mystery_train_tdc.txt
+*Graph:
+I(0): IV(9) V(5) 
+IV(0): I(14) 
+V(0): IV(5) 
+
+*no_woman_no_cry_tdc.txt
+*Graph:
+I(0): V6(31) IV(11) V(11) 
+IV(0): I(42) 
+V(0): I(10) 
+V6(0): vi(31) 
+vi(0): IV(31) 
+
+*fortunate_son_dt.txt
+*Graph:
+I(0): bVII(8) V(8) Id7(2) 
+II(0): iv(2) 
+IV(0): I(16) 
+Id7(0): II(2) 
+V(0): IV(8) 
+bVII(0): IV(8) 
+iv(0): I(2) 
+
+*respect_dt.txt
+*Graph:
+I(0): IV(18) 
+IV(0): I(17) V(11) i(2) 
+V(0): IV(12) 
+i(0): IV(1) V(1) 
+
+*kashmir_tdc.txt
+*Graph:
+I(0): V(1) iv(2) 
+V(0): I(2) iv(12) 
+iv(0): V(14) 
+
+*dancing_queen_tdc.txt
+*Graph:
+I(0): IV64(22) IV6(3) vi(3) 
+I64(0): V(3) 
+IV(0): ii(3) 
+IV6(0): I64(3) 
+IV64(0): I(21) 
+V(0): V/vi(3) vi(6) I(2) 
+V/vi(0): vi(3) 
+V6/V(0): IV(3) 
+ii(0): I(3) V(2) 
+vi(0): V6/V(3) V(6) I(1) ii(2) 
+
+*i_got_you_dt.txt
+*Graph:
+I(0): IV(9) V(7) 
+IV(0): I(14) V(2) 
+R(0): I(1) 
+V(0): IV(7) I(2) 
+
+*love_and_happiness_dt.txt
+*Graph:
+V7(0): i(10) 
+bIII(0): bIIId42(3) bV(5) bVId7(2) 
+bIIId42(0): i(3) 
+bV(0): iv(8) 
+bVII(0): i(6) bV(3) 
+bVId7(0): V7(10) 
+i(0): iv7(1) bVId7(8) bIII(2) bVII(9) 
+iv(0): bIII(8) 
+iv7(0): i(1) 
+
+*all_apologies_dt.txt
+*Graph:
+I(0): IV(2) 
+IV(0): V(2) 
+V(0): I(2) 
+
+*bohemian_rhapsody_tdc.txt
+*Graph:
+#IV(0): V(6) bVI(1) 
+I(1): vi(6) ii/V(1) V65(2) V6(4) IV64(8) III64(1) V(12) bVI(1) IV(3) V/V(2) V/iii(1) viix43/V(1) 
+I6(0): viix42/V(2) V/V(1) 
+III64(0): V/III(1) 
+IV(0): I6(3) I(2) ii(1) #IV(1) V(1) 
+IV64(0): I(8) V/iii(1) 
+V(0): #IV(6) bVI(3) IV(2) I(25) IV64(1) bIII(1) bVII(1) ii(3) 
+V/III(0): bIII64(1) 
+V/V(0): bVI(1) V(2) bIII(1) 
+V/VII(0): VII(1) 
+V/bIII(0): bIII(1) 
+V/iii(0): iii(2) 
+V11(0): I(1) 
+V6(0): vi(4) iv6/II(1) 
+V6/vi(0): vi(2) 
+V64(0): I(1) 
+V65(0): vi(2) 
+V7(0): I(2) 
+V7/V(0): V7(1) 
+VII(0): V/bIII(1) 
+bIII(0): bVI(1) V(1) IV(1) 
+bIII64(0): V(1) 
+bVI(0): V(6) V/VII(1) IV(1) 
+bVII(0): bVII/bVII(1) V(1) 
+bVII/bVII(0): vi/bVII(1) 
+ii(0): V(6) viih7(2) ii42(4) 
+ii/V(0): V/V(1) 
+ii42(0): viih7(4) 
+ii64(0): I(2) 
+ii7(0): bVI(1) 
+iii(0): V(1) IV(1) vi(2) 
+iv(0): I(1) V11(1) 
+iv6/II(0): V(1) 
+vi(0): V7(1) ii(8) iv(2) V6/vi(2) V(1) iii(2) 
+vi/bVII(0): I(1) 
+vi7(0): V7/V(1) 
+viih7(0): ii64(2) V(3) bVII(1) 
+viix42/V(0): V64(1) ii7(1) 
+viix43/V(0): V6(1) 
+
+*whole_lotta_shakin_goin_on_dt.txt
+*Graph:
+I(0): IV(9) V(9) 
+IV(0): I(18) 
+V(0): IV(9) 
+
+*da_doo_ron_ron_dt.txt
+*Graph:
+I(0): IV(18) V(3) 
+IV(0): V(15) I(3) 
+V(0): I(18) 
+
+*jumpin_jack_flash_tdc.txt
+*Graph:
+I(0): IV(11) bIII(6) 
+IV(0): bVII(11) I(6) 
+bIII(0): bVII(6) 
+bVII(0): I(11) IV(6) 
+
+*both_sides_now_dt.txt
+*Graph:
+I(0): IV(26) V(10) 
+IV(0): V(22) I(4) 
+V(0): I(32) 
+
+*not_fade_away_tdc.txt
+*Graph:
+I(0): IV(38) 
+IV(0): I(38) bVII(10) 
+bVII(0): IV(10) 
+
+*nuthin_but_a_g_thang_dt.txt
+*Graph:
+i(0): v(47) 
+v(0): i(47) 
+
+*rock_around_the_clock_tdc.txt
+*Graph:
+I(0): V(9) IV(7) 
+IV(0): I(7) 
+V(0): I(9) 
+
+*papas_got_a_brand_new_bag_dt.txt
+*Graph:
+I(0): V7(4) i(1) 
+IV(0): i(4) 
+IVd7(0): I(4) 
+V7(0): i(3) IVd7(4) I(2) 
+i(0): IV(4) V7(4) 
+
+*free_fallin_dt.txt
+*Graph:
+I(0): IV(43) V(43) 
+IV(0): I(43) 
+V(0): I(42) 
+
+*my_girl_dt.txt
+*Graph:
+I(0): IV(14) ii(12) 
+IV(0): I(13) V(6) ii(1) 
+V(0): I(12) iii(1) 
+ii(0): IV(6) V(7) 
+iii(0): V(1) 
+
+*i_walk_the_line_tdc.txt
+*Graph:
+I(4): IV(6) V(16) 
+IV(0): I(6) 
+V(1): I(16) 
+
+*the_weight_dt.txt
+*Graph:
+I(0): IV(1) iii(20) V(15) V6(7) 
+IV(0): I(42) 
+V(0): IV(15) 
+V6(0): vi(7) 
+iii(0): IV(20) 
+iii6(0): IV(7) 
+vi(0): iii6(7) 
+
+*while_my_guitar_gently_weeps_tdc.txt
+*Graph:
+I(0): iii(4) 
+IV(0): V(7) 
+IV6(0): bVI(13) 
+V(0): i(12) I(4) 
+bIII(0): V(6) 
+bVI(0): i(13) 
+bVII(0): IV(7) bIII(6) 
+i(0): i42(13) bVII(13) 
+i42(0): IV6(13) 
+ii(0): V(4) 
+iii(0): vi(4) ii(4) 
+vi(0): iii(4) 
+
+*london_calling_tdc.txt
+*Graph:
+bII(0): i6(12) 
+bIII(0): i(21) 
+bVI(0): i(16) 
+bVII(0): i(3) 
+i(0): bVI(16) bII(12) bIII(9) bVII(3) 
+i6(0): bIII(12) 
+
+*papa_was_a_rollin_stone_tdc.txt
+*Graph:
+'Ch2'(0): is(1) 
+Warning:(0): 'Ch2'(1) 
+but(0): never(1) 
+defined(0): but(1) 
+i(0): 
+is(0): defined(1) 
+never(0): used(1) 
+used(0): i(1) 
+
+*im_waiting_for_the_man_dt.txt
+*Graph:
+I(0): IV(61) III(5) 
+III(0): IV(5) 
+IV(0): I(60) V(5) 
+V(0): I(5) 
+
+*come_as_you_are_tdc.txt
+*Graph:
+IV(0): bVI(10) 
+bIII(0): i(10) IV(2) 
+bVI(0): IV(8) i(2) 
+bVII(0): i(30) 
+i(0): bVII(30) bIII(12) 
+
+*go_your_own_way_tdc.txt
+*Graph:
+I(0): V(6) vi(3) 
+IV(0): I(6) V(18) 
+V(0): IV(6) vi(15) I(2) 
+vi(0): IV(18) 
+
+*bitter_sweet_symphony_dt.txt
+*Graph:
+I(0): v7(63) 
+IV(0): I(62) 
+v7(0): IV(63) 
+
+*layla_dt.txt
+*Graph:
+I(0): ii(3) IV(18) V(3) vi(4) 
+IV(0): ii(3) I(7) bVII(8) 
+V(0): I(10) i(3) 
+bVI(0): bVII(37) 
+bVII(0): i(30) vi(3) I(12) 
+i(0): bVI(34) 
+ii(0): V(10) 
+iii(0): vi(3) 
+vi(0): iii(3) bVI(3) ii(4) 
+
+*its_a_mans_mans_mans_world_tdc.txt
+*Graph:
+V(0): V7/bIII(1) i(3) 
+V7/bIII(0): i(1) 
+i(0): V(1) v(28) 
+iv(0): V(3) 
+v(0): i(24) iv(3) 
+
+*california_love_dt.txt
+*Graph:
+R(0): i(1) 
+i(0): 
+
+*please_please_please_tdc.txt
+*Graph:
+I(0): IV(18) V7(12) vi(6) 
+IV(0): V(18) 
+R(0): I(1) 
+V(0): I(24) 
+V/V(0): V(6) 
+V7(0): I(12) 
+vi(0): V/V(6) 
+
+*shout_dt.txt
+*Graph:
+I(0): vi(52) IV64(1) V7/IV(1) 
+IV64(0): I(1) 
+IVd7(0): I(1) 
+R(0): I(1) 
+V7/IV(0): IVd7(1) 
+vi(0): I(51) 
+
+*a_day_in_the_life_dt.txt
+*Graph:
+I(0): iii(9) bVII(2) V(4) bVI(2) 
+IV(0): I(5) vi64(4) bVII(5) V(2) 
+V(0): I(5) bVI(1) 
+bIII(0): bVII(2) 
+bVI(0): bIII(2) I(1) 
+bVII(0): vi(5) I(2) IV(2) 
+ii(0): I(4) 
+iii(0): vi(9) 
+vi(0): IV(14) 
+vi64(0): ii(4) 
+
+*fake_plastic_trees_dt.txt
+*Graph:
+I(0): vi(6) IV(6) ii(7) 
+IV(0): I(9) ii(3) 
+ii(0): I(10) 
+iii6(0): IV(6) 
+vi(0): iii6(6) 
+
+*hound_dog_tdc.txt
+*Graph:
+I(0): IV(8) V(8) 
+IV(0): I(16) 
+R(0): I(1) 
+V(0): IV(8) 
+
+*bohemian_rhapsody_dt.txt
+*Graph:
+I(1): vi(8) ii(1) V6(4) III64(1) V(7) IV(3) V/V(1) II(2) V/iii(1) viix7(1) 
+I6(0): viix42/V(1) 
+II(0): V(1) bIII(1) 
+III64(0): V7/III(1) 
+IV(0): I6(1) I(2) V7/iii(1) ii(1) V(1) 
+V(0): I(21) vi7(1) V/bVI(1) bVII(1) ii(3) 
+V/IV(0): IV(1) 
+V/V(0): V(1) 
+V/VII(0): VII(1) 
+V/bVI(0): bvi(1) bVI(1) 
+V/iii(0): iii(1) 
+V/vi(0): vi(2) 
+V43(0): V7(1) 
+V6(0): I(2) vi(4) v6(1) 
+V7(0): I(2) V/IV(1) 
+V7/III(0): bIII64(1) 
+V7/IV(0): I(1) 
+V7/V(0): V7(1) 
+V7/iii(0): iii(1) 
+VII(0): V/bVI(1) 
+bIII(0): bVI(1) 
+bIII64(0): V(1) 
+bVI(0): V(1) IV(1) 
+bVII(0): I(1) V(1) 
+bvi(0): V/VII(1) 
+ii(0): V7(1) V(9) V6(2) bVII(1) 
+iii(0): V(1) IV(1) vi(2) 
+iv(0): I(1) V(1) 
+v6(0): V(1) 
+vi(0): V7/V(1) V7/IV(1) ii(8) iv(2) V/vi(2) V(1) iii(2) 
+vi7(0): V(1) 
+viix42/V(0): V43(1) 
+viix7(0): V6(1) 
+
+*strawberry_fields_forever_tdc.txt
+*Graph:
+I(0): v7(4) V(3) vi(3) vi7(1) IV(1) 
+IV(0): V7/ii(4) I(9) V7(6) V(1) 
+IV64(0): I(1) 
+V(0): iii6/V(4) IV(1) 
+V42(0): vi64(1) 
+V64(0): IV64(1) 
+V7(0): vi(3) I(3) IV(3) 
+V7/ii(0): IV(8) 
+iii6/V(0): V42(1) V7(3) 
+v7(0): V7/ii(4) 
+vi(0): vi42(3) IV(3) 
+vi42(0): IV(3) 
+vi64(0): V64(1) 
+vi7(0): IV(1) 
+
+*blue_suede_shoes_dt.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(7) 
+R(0): I(1) 
+V(0): I(7) 
+
+*i_want_you_back_tdc.txt
+*Graph:
+I(0): IV(14) ii(13) vi(8) 
+IV(0): vi(6) I(22) ii(8) 
+V(0): I(13) vi(8) 
+ii(0): V(21) 
+iii(0): IV(22) 
+vi(0): iii(22) 
+
+*great_balls_of_fire_tdc.txt
+*Graph:
+I(0): IV(10) 
+IV(0): V(8) I(8) 
+V(0): IV(6) I(2) 
+
+*hey_jude_dt.txt
+*Graph:
+I(0): V(10) IV(4) V7/IV(4) bVII(18) 
+I6(0): ii(4) 
+IV(0): I(22) I6(4) 
+R(0): I(1) 
+V(0): I(14) 
+V6(0): V(4) 
+V7/IV(0): IV(4) 
+bVII(0): IV(18) 
+ii(0): vi6(4) 
+vi6(0): V6(4) 
+
+*gimme_shelter_tdc.txt
+*Graph:
+I(0): bVII(22) 
+bVI(0): bVII(20) 
+bVI6(0): bVII64(1) bVII(1) 
+bVII(0): bVI(20) I(20) bVI6(2) 
+bVII64(0): I(1) 
+
+*good_golly_miss_molly_dt.txt
+*Graph:
+I(0): IV(7) V(7) 
+IV(0): I(14) 
+V(0): IV(7) 
+
+*bizarre_love_triangle_dt.txt
+*Graph:
+I(0): V(2) IV(38) 
+IV(0): V(38) R(4) 
+R(0): I(1) IV(4) 
+V(0): iii(2) I(38) 
+iii(0): vi(2) 
+vi(0): I(1) IV(1) 
+
+*i_still_havent_found_what_im_looking_for_dt.txt
+*Graph:
+I(0): IV(8) V(8) 
+IV(0): I(16) 
+V(0): IV(8) 
+
+*like_a_rolling_stone_tdc.txt
+*Graph:
+I(0): IV64(4) ii(12) IV(31) 
+IV(0): V(47) iii(8) 
+IV64(0): I(4) 
+V(0): I(34) IV(12) 
+ii(0): iii(8) I(8) IV(4) 
+iii(0): IV(8) ii(8) 
+
+*folsom_prison_blues_tdc.txt
+*Graph:
+I(0): IV(6) V(7) 
+IV(0): I(6) 
+V(0): I(8) 
+
+*eleanor_rigby_dt.txt
+*Graph:
+IVd43(0): bVI6(6) 
+bVI(0): i(10) 
+bVI6(0): i(6) 
+i(0): bVI(9) i7(6) 
+i7(0): IVd43(6) 
+
+*people_get_ready_dt.txt
+*Graph:
+I(1): vi(18) iii(4) 
+V11(0): I(18) 
+ii(0): v11(4) 
+iii(0): ii(4) 
+v11(0): I(4) 
+vi(0): V11(18) 
+
+*ring_of_fire_dt.txt
+*Graph:
+I(0): IV(11) V7(3) V(27) 
+IV(0): I(19) 
+V(0): I(18) IV(8) 
+V7(0): I(3) 
+
+*shake_rattle_and_roll_dt.txt
+*Graph:
+I(0): IVd7(9) V7(9) 
+IVd7(0): I(18) 
+V7(0): IVd7(9) 
+
+*your_song_tdc.txt
+*Graph:
+I(0): IV64(3) IV(4) ii(4) V6(2) 
+I6(0): IV(3) 
+I64(0): V(4) 
+IV(0): V6(6) I64(4) V(4) I(3) vi(2) I6(3) 
+IV64(0): Vs4(3) I(3) 
+V(0): V6/vi(4) I(3) vi(1) 
+V6(0): iii(4) vi(4) 
+V6/V(0): IV(7) 
+V6/vi(0): vi(4) 
+Vs4(0): IV64(3) 
+ii(0): IV(8) 
+iii(0): vi(4) 
+vi(0): vi42(7) I(4) ii(4) 
+vi42(0): V6/V(7) 
+
+*september_gurls_tdc.txt
+*Graph:
+I(0): V(22) IV(1) 
+IV(0): ii(6) I(16) 
+IV64(0): Vs4(1) I(1) 
+R(0): IV64(1) 
+V(0): IV(21) I(1) 
+Vs4(0): IV64(1) 
+ii(0): I(6) 
+
+*mr_tambourine_man_byrds_dt.txt
+*Graph:
+I(0): V(8) IV(17) 
+IV(0): V(12) I(10) 
+V(0): I(14) IV(5) 
+
+*eleanor_rigby_tdc.txt
+*Graph:
+bVI(0): i(10) 
+i(0): bVI(9) 
+
+*whats_going_on_dt.txt
+*Graph:
+I7(0): vi7(10) 
+V11(0): V7(3) ii7(4) I7(3) 
+V7(0): I7(1) ii7(2) 
+ii(0): V11(3) 
+ii7(0): V11(6) 
+iv7(0): V11(2) 
+vi7(0): I7(5) ii(3) iv7(2) 
+
+*every_breath_you_take_tdc.txt
+*Graph:
+I(0): vi(15) IV(2) V/V(2) 
+IV(0): V(8) I(9) 
+V(0): I(7) vi(5) 
+V/V(0): V(2) 
+bVI(0): bVII(2) I(1) 
+bVII(0): bVI(2) 
+vi(0): IV(16) I(1) bVI(1) V(2) 
+
+*both_sides_now_tdc.txt
+*Graph:
+'In'(0): is(1) 
+I(0): IV64(24) I7(19) V(22) 
+I7(0): IV64(31) 
+IV64(0): I(30) I7(3) Vs4(22) 
+V(0): I(22) 
+Vs4(0): I(13) I7(9) 
+Warning:(0): 'In'(1) 
+but(0): never(1) 
+defined(0): but(1) 
+is(0): defined(1) 
+never(0): used(1) 
+used(0): I(1) 
+
+*people_get_ready_tdc.txt
+*Graph:
+I(1): vi7(18) iii7(4) 
+V11(0): I(22) 
+ii7(0): V11(4) 
+iii7(0): ii7(4) 
+vi7(0): V11(18) 
+
+*earth_angel_tdc.txt
+*Graph:
+I(0): vi(15) IV(8) V/V(2) 
+IV(0): V(15) I(8) 
+V(0): I(17) 
+V/V(0): V(2) 
+vi(0): IV(15) 
+
+*crazy_tdc.txt
+*Graph:
+I(0): IV(1) bVII(4) viio/ii(1) ii(1) VII(1) bII(1) V7(1) IVd7(1) 
+IV(0): iii(3) viix7/V(1) 
+IVd7(0): I(1) 
+V(0): I(4) viix43/V(1) V7(1) 
+V/ii(0): ii(4) 
+V7(0): I(3) 
+V7/IV(0): IV(1) 
+V7/V(0): V7(1) 
+VII(0): I(1) 
+bII(0): V7/V(1) 
+bVII(0): V/ii(4) 
+ii(0): V(6) viix43/V(1) IV(2) viio/ii(2) 
+iii(0): ii(3) 
+viio/ii(0): ii(3) 
+viix43/V(0): I(1) V7/IV(1) 
+viix7/V(0): I(1) 
+
+*thatll_be_the_day_dt.txt
+*Graph:
+I(0): V(7) IV(13) V/V(2) 
+IV(0): I(18) 
+V(0): IV(5) I(4) 
+V/V(0): V(2) 
+
+*hotel_california_dt.txt
+*Graph:
+IV(0): bVI(13) 
+V(0): bVII(13) i(12) bVI(2) 
+V7(0): i(2) 
+bIII(0): iv(15) V7(2) 
+bVI(0): bIII(17) 
+bVII(0): IV(13) 
+i(0): V(13) bVI(2) 
+iv(0): V(15) 
+
+*up_on_the_roof_tdc.txt
+*Graph:
+I(0): vi(12) IV(3) 
+IV(0): ii(5) I(3) V(5) 
+V(0): I(10) 
+ii(0): V(5) 
+vi(0): IV(10) I(1) 
+
+*louie_louie_dt.txt
+*Graph:
+I(0): IV(41) 
+IV(0): v(41) I(41) 
+v(0): IV(41) 
+
+*1999_dt.txt
+*Graph:
+I(0): bVII(148) IV(10) 
+I64(0): V11(8) 
+IV(0): vi(10) 
+R(0): I64(1) 
+V11(0): I64(7) I(1) 
+bVII(0): I(148) 
+vi(0): I(10) 
+
+*little_red_corvette_tdc.txt
+*Graph:
+I(0): IV(20) 
+IV(0): V(56) 
+R(0): IV(1) 
+V(0): vi(26) IV(13) I(20) 
+vi(0): IV(22) V(4) 
+
+*purple_haze_tdc.txt
+*Graph:
+IV(0): i7(8) i(3) i64(2) 
+bIII(0): IV(11) 
+bVII(0): i(11) 
+bVII6(0): bVII(10) 
+i(0): i7(3) IV(2) bVII6(10) 
+i64(0): bVII(2) 
+i7(0): bIII(11) 
+
+*everyday_people_tdc.txt
+*Graph:
+I(0): IV64(32) 
+IV64(0): I(32) 
+
+*lets_stay_together_tdc.txt
+*Graph:
+I(0): vi9(3) vii(3) iii(3) 
+IV(0): iv6(3) iii(3) 
+V(0): I(2) ii9(1) 
+VId9(0): iii(3) I(1) ii9(2) 
+bIII(0): ii9(1) IV(1) 
+ii(0): iii(3) V(2) I(6) IV(2) 
+ii9(0): iii7(2) bIII(2) 
+iii(0): ii(10) VId9(3) vi(2) 
+iii7(0): ii(2) 
+iv6(0): iii(3) 
+vi(0): V(2) 
+vi9(0): IV(3) 
+vii(0): VId9(3) 
+
+*i_fought_the_law_dt.txt
+*Graph:
+I(0): IV(24) V(14) 
+IV(0): V(7) I(17) 
+R(0): I(1) 
+V(0): I(21) 
+
+*hot_stuff_dt.txt
+*Graph:
+V(0): i(36) 
+bVI(0): bVII(2) 
+bVII(0): i(18) 
+i(0): bVII(16) iv(36) bVI(2) V(1) 
+iv(0): V(36) 
+
+*changes_dt.txt
+*Graph:
+I(0): bII(1) iii(4) ii(5) iii6(6) II(1) IV(2) vi(1) 
+I64(0): IV(6) 
+II(0): IV(4) V(3) vi(3) ii(4) 
+III(0): II(4) 
+IV(0): II(9) I(11) V(5) III(4) 
+V(0): IV(8) I(4) bVII(4) 
+bII(0): ii(1) I(1) 
+bIIId7(0): IV(1) ii(1) 
+bVII(0): IV(4) 
+biii(0): ii(4) 
+ii(0): bIIId7(1) iii(5) V(4) I(4) bII(1) 
+iii(0): IV(4) biii(4) bIIId7(1) 
+iii6(0): vi(6) 
+vi(0): I64(6) V(4) 
+
+*you_send_me_tdc.txt
+*Graph:
+I(0): vi(21) IV(3) ii(6) bVII(2) 
+IV(0): I(3) 
+R(0): I(1) 
+V(0): I(23) 
+V/V(0): V(2) 
+V7b9(0): I(6) 
+VI(0): V/V(2) 
+bVII(0): VI(2) 
+ii(0): V(21) V7b9(6) 
+vi(0): ii(21) 
+
+*whatd_i_say_dt.txt
+*Graph:
+I(0): IV(11) V(20) 
+IV(0): I(22) 
+V(0): IV(11) I(9) 
+
+*i_cant_make_you_love_me_dt.txt
+*Graph:
+I(0): IV(6) 
+I6(0): vi(8) ii(4) IV(3) 
+I64(0): V(2) 
+IV(0): vi7(13) I6(13) I(6) vi(2) V6(4) bVII(1) 
+V(0): I6(2) IV(2) 
+V6(0): vi(4) 
+bVII(0): 
+ii(0): IV(10) I64(2) 
+ii7(0): V(2) 
+vi(0): ii(8) IV(4) ii7(2) 
+vi7(0): IV(13) 
+
+*folsom_prison_blues_dt.txt
+*Graph:
+I(0): IV(6) V(7) 
+IV(0): I(6) 
+V(0): I(8) 
+
+*satisfaction_tdc.txt
+*Graph:
+I(0): IV(51) V(3) 
+IV(0): bVII64(42) I(50) 
+V(0): I(3) 
+bVII64(0): IV(42) 
+
+*i_wanna_be_sedated_dt.txt
+*Graph:
+I(1): IV(18) V(12) 
+IV(0): I(8) V(10) 
+V(0): I(22) 
+
+*foxey_lady_tdc.txt
+*Graph:
+I(0): bVII(9) Id7#9(3) 
+IV(0): Id7#9(20) I(12) 
+Id7#9(0): bIII(24) 
+bIII(0): IV(24) 
+bVII(0): IV(9) 
+
+*all_along_the_watchtower_dt.txt
+*Graph:
+R(0): bVII(1) 
+bVI(0): bVII(56) 
+bVII(0): i(56) bVI(56) 
+i(0): bVII(56) 
+
+*i_want_you_back_dt.txt
+*Graph:
+I(0): IV(24) ii(13) iii(8) 
+I6(0): IV(14) 
+IV(0): vi(6) I(23) ii(8) 
+V(0): I(13) vi(8) 
+ii(0): V(21) I(8) 
+iii(0): ii(8) 
+vi(0): I6(14) 
+
+*i_believe_i_can_fly_dt.txt
+*Graph:
+I(0): iih7(4) iio(8) vi7(3) 
+I6(0): V11(1) 
+I64(0): V11(3) iih43(8) 
+V11(0): I(4) V65/vi(3) vi(1) 
+V65/vi(0): vi7(3) 
+V7/vi(0): vi(2) 
+ii7(0): V11(3) I6(1) 
+iih43(0): I64(11) vi(2) I(1) 
+iih7(0): I(4) 
+iio(0): I(6) V7/vi(2) 
+vi(0): iih43(3) V11(1) ii7(1) 
+vi7(0): ii7(3) iih43(3) 
+
+*i_want_to_hold_your_hand_dt.txt
+*Graph:
+I(0): V(10) vi(6) ii7(2) 
+IV(0): V(16) I(1) 
+R(0): IV(1) 
+V(0): IV(7) I(14) vi(8) iii(1) 
+ii7(0): V(4) 
+iii(0): I(4) IV(5) 
+vi(0): iii(8) IV(4) ii7(2) 
+
+*i_believe_i_can_fly_tdc.txt
+*Graph:
+I(0): iih42(8) vi7(3) 
+I6(0): V11(1) 
+I64(0): iih43(12) V9(3) 
+IV7(0): V11(3) 
+V(0): I(3) 
+V11(0): Va65/vi(3) I(1) vi7(1) 
+V9(0): V(3) 
+Va65/vi(0): vi7(3) 
+Va7/vi(0): vi7(2) 
+ii9(0): I6(1) 
+iih42(0): I(6) Va7/vi(2) 
+iih43(0): I64(14) I(2) vi7(2) 
+vi7(0): iih43(6) IV7(3) V11(1) ii9(1) 
+
+*nuthin_but_a_g_thang_tdc.txt
+*Graph:
+i(0): v7s4(47) 
+v7s4(0): i(47) 
+
+*jailhouse_rock_dt.txt
+*Graph:
+I(0): IV(6) V(6) 
+IV(0): I(12) 
+V(0): IV(6) 
+
+*fast_car_tdc.txt
+*Graph:
+I(0): vi(52) 
+IV(0): I(3) vi(6) V(3) 
+IV7(0): I(50) 
+V(0): IV(9) IV7(3) 
+V+11(0): IV7(46) IV(3) 
+vi(0): V+11(49) V(9) 
+
+*mr_tambourine_man_dylan_dt.txt
+*Graph:
+I(0): IV(69) ii(6) 
+IV(0): V(35) I(47) 
+V(0): I(27) IV(14) 
+ii(0): V(6) 
+
+*billie_jean_dt.txt
+*Graph:
+R(0): i(1) 
+V(0): i(2) 
+bVI(0): i(6) V(2) 
+i(0): iv(14) bVI(8) 
+iv(0): i(14) 
+
+*in_my_life_tdc.txt
+*Graph:
+I(0): V(11) vi(6) 
+II(0): iv(3) 
+IV(0): iv(6) bVII(3) 
+V(0): I(4) vi(6) iv(1) 
+V42/IV(0): IV(6) 
+bVII(0): I(3) 
+iv(0): I(10) 
+vi(0): V42/IV(6) IV(3) II(3) 
+
+*river_deep_mountain_high_dt.txt
+*Graph:
+I(0): IV(4) V(6) bVII(15) 
+IV(0): I(4) bIII(2) 
+V(0): I(6) 
+bIII(0): IV(1) I(1) 
+bVII(0): I(14) IV(1) 
+
+*tears_in_heaven_dt.txt
+*Graph:
+I(0): V6(15) IV(2) 
+I6(0): ii(2) 
+I64(0): V(8) 
+IV(0): I6(2) 
+IV6(0): V(5) I64(8) 
+V(0): I(10) vi(4) 
+V/ii(0): ii(4) 
+V11(0): I(4) 
+V6(0): vi(14) I(3) V(1) 
+V6/vi(0): iio/ii(4) 
+ii(0): V11(4) V6(2) 
+iii43(0): IV6(13) 
+iio/ii(0): V/ii(4) 
+vi(0): iii43(13) V6/vi(4) V6(1) 
+
+*take_me_to_the_river_dt.txt
+*Graph:
+IV(0): i(12) bVI(3) vi(1) bIII64(1) 
+R(0): i(1) 
+V(0): i(1) 
+bIII(0): bVII(3) 
+bIII64(0): V(1) 
+bVI(0): bIII(3) 
+bVII(0): IV(15) 
+i(0): bVII(12) vi(1) 
+vi(0): IV(2) 
+
+*the_tracks_of_my_tears_tdc.txt
+*Graph:
+I(0): IV(40) V(1) 
+IV(0): V(18) I(22) 
+V(0): I(19) 
+
+*california_girls_tdc.txt
+*Graph:
+I(0): Id7(1) bVII(1) V11/IV(4) ii7(6) 
+IV(0): V(4) 
+Id7(0): I(1) 
+V(0): I(4) 
+V11/IV(0): IV(4) 
+bVI(0): ii7/bVI(2) 
+bVII(0): I(1) ii7/bVII(2) 
+ii7(0): bVII(2) I(3) 
+ii7/bVI(0): I(2) 
+ii7/bVII(0): bVI(2) 
+
+*crying_tdc.txt
+*Graph:
+I(0): Va/IV(4) V(4) iii(4) vi(1) IV(1) 
+IV(0): iv(4) V(5) I(1) 
+V(0): I(7) IV(2) 
+Va/IV(0): IV(4) 
+iii(0): I(2) IV(2) 
+iv(0): I(4) 
+vi(0): IV(1) 
+
+*norwegian_wood_tdc.txt
+*Graph:
+I(0): bVII(11) 
+I64(0): I(8) i(2) 
+IV(0): i(2) 
+IV6(0): I64(11) 
+V(0): I(2) 
+bVII(0): IV6(11) 
+i(0): IV(2) ii(2) 
+ii(0): V(2) 
+
+*johnny_b_goode_dt.txt
+*Graph:
+I(0): IV(9) V(9) 
+IV(0): I(9) 
+V(0): I(9) 
+
+*a_change_is_gonna_come_tdc.txt
+*Graph:
+I(0): V6(1) ii(10) 
+I64(0): ii65(1) 
+IV(0): V7/vi(4) 
+V(0): I(1) 
+V/V(0): V7(1) 
+V43/ii(0): ii(1) 
+V6(0): vi(1) 
+V7(0): I(1) 
+V7/vi(0): vi(4) 
+VId7(0): V(1) 
+bVIId7(0): VId7(1) 
+ii(0): vi6(1) vi(6) IV(4) I(1) 
+ii65(0): V43/ii(1) 
+vi(0): I64(1) I(8) ii(1) V/V(1) 
+vi6(0): bVIId7(1) 
+
+*you_cant_always_get_what_you_want_tdc.txt
+*Graph:
+I(0): IV(71) 
+I42(0): IV64(1) 
+II(0): IV(7) 
+IV(0): I(69) II(7) ii43(1) 
+IV64(0): V64(1) 
+R(0): I(1) 
+V11(0): I(1) 
+V64(0): V11(1) 
+ii43(0): I42(1) 
+
+*gimme_shelter_dt.txt
+*Graph:
+I(0): bVII(22) 
+bVI(0): bVII(22) 
+bVII(0): bVI(22) I(21) 
+
+*let_it_be_dt.txt
+*Graph:
+I(0): V(28) vi(7) IV(3) 
+I64(0): IV(7) 
+IV(0): I(29) 
+V(0): vi(9) IV(19) 
+ii65(0): I(9) 
+vi(0): ii65(9) I64(7) 
+
+*blitzkrieg_bop_dt.txt
+*Graph:
+I(0): IV(38) R(2) 
+IV(0): V(26) I(12) ii(2) 
+R(0): I(2) 
+V(0): I(26) 
+ii(0): IV(2) 
+
