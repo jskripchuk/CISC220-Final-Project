@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 int main(int argc, char **argv) {
   cout << "Reading " << argv[1] << "..." << endl;
 
@@ -14,6 +15,11 @@ int main(int argc, char **argv) {
   cout << endl;
   cout << "Graph:" << endl;
   cout << cg.toString() << endl;
+  
+  //Does the flow analysis on the graph
+  cg.doFordFulkerson();
+  cout << endl;
+  cg.findMaxDegree();
 
   return 0;
 }
