@@ -1,0 +1,1584 @@
+blitzkrieg_bop_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+a_change_is_gonna_come_dt.txt
+Max Flow: I -> ii7
+Max Degree: vi
+-----------------------------------------
+thunder_road_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+loser_tdc.txt
+Max Flow: I -> R
+Max Degree: I
+-----------------------------------------
+a_whiter_shade_of_pale_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+nuthin_but_a_g_thang_tdc.txt
+Max Flow: i -> v7s4
+Max Degree: i
+-----------------------------------------
+born_to_run_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+every_breath_you_take_tdc.txt
+Max Flow: I -> vi
+Max Degree: vi
+-----------------------------------------
+family_affair_dt.txt
+Max Flow: ii7 -> V
+Max Degree: i
+-----------------------------------------
+heroes_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+layla_tdc.txt
+Max Flow: bVI -> bVII
+Max Degree: I
+-----------------------------------------
+shake_rattle_and_roll_dt.txt
+Max Flow: I -> IVd7
+Max Degree: I
+-----------------------------------------
+in_the_midnight_hour_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+will_you_love_me_tomorrow_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+like_a_rolling_stone_tdc.txt
+Max Flow: IV -> V
+Max Degree: I
+-----------------------------------------
+bizarre_love_triangle_tdc.txt
+Max Flow: IV -> V
+Max Degree: IV
+-----------------------------------------
+blowin_in_the_wind_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+free_fallin_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+ring_of_fire_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+eleanor_rigby_dt.txt
+Max Flow: bVI -> i
+Max Degree: i
+-----------------------------------------
+people_get_ready_dt.txt
+Max Flow: I -> V11
+Max Degree: I
+-----------------------------------------
+you_really_got_me_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+waterloo_sunset_tdc.txt
+Max Flow: I -> IV6
+Max Degree: IV6
+-----------------------------------------
+should_i_stay_or_should_i_go_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+thats_all_right_dt.txt
+Max Flow: I -> IVd7
+Max Degree: I
+-----------------------------------------
+stand_by_me_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+brown-eyed_girl_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+mystery_train_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+in_the_midnight_hour_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+1999_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+september_gurls_dt.txt
+Max Flow: V -> I
+Max Degree: IV
+-----------------------------------------
+i_still_havent_found_what_im_looking_for_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+sympathy_for_the_devil_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+folsom_prison_blues_tdc.txt
+Max Flow: V -> I
+Max Degree: I
+-----------------------------------------
+bitter_sweet_symphony_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+should_i_stay_or_should_i_go_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+a_day_in_the_life_dt.txt
+Max Flow: IV -> vi
+Max Degree: I
+-----------------------------------------
+one_tdc.txt
+Max Flow: IV -> vi
+Max Degree: V
+-----------------------------------------
+strawberry_fields_forever_tdc.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+wont_get_fooled_again_tdc.txt
+Max Flow: I -> IV64
+Max Degree: I
+-----------------------------------------
+maggie_may_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+the_tracks_of_my_tears_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+you_cant_always_get_what_you_want_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+you_really_got_me_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+lose_yourself_dt.txt
+Max Flow: i -> bVI
+Max Degree: bVI
+-----------------------------------------
+im_so_lonesome_i_could_cry_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+i_walk_the_line_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+eleanor_rigby_tdc.txt
+Max Flow: bVI -> i
+Max Degree: bVI
+-----------------------------------------
+blue_suede_shoes_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+let_it_be_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+louie_louie_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+all_apologies_tdc.txt
+Max Flow: IV -> Id7
+Max Degree: IV
+-----------------------------------------
+blueberry_hill_dt.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+take_me_to_the_river_tdc.txt
+Max Flow: IV -> bVII
+Max Degree: IV
+-----------------------------------------
+proud_mary_tdc.txt
+Max Flow: bVII -> V
+Max Degree: V
+-----------------------------------------
+the_times_they_are_a-changin_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+all_along_the_watchtower_dt.txt
+Max Flow: bVI -> bVII
+Max Degree: bVII
+-----------------------------------------
+for_what_its_worth_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+a_change_is_gonna_come_tdc.txt
+Max Flow: I -> ii
+Max Degree: ii
+-----------------------------------------
+enter_sandman_dt.txt
+Max Flow: i -> ii
+Max Degree: i
+-----------------------------------------
+a_hard_days_night_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+the_sounds_of_silence_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+rock_and_roll_music_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+mr_tambourine_man_byrds_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+family_affair_tdc.txt
+Max Flow: ii7 -> V
+Max Degree: V
+-----------------------------------------
+all_i_have_to_do_is_dream_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+california_girls_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+i_want_you_back_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+little_red_corvette_tdc.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+enter_sandman_tdc.txt
+Max Flow: i -> iv64
+Max Degree: i
+-----------------------------------------
+redemption_song_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+rave_on_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+when_a_man_loves_a_woman_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+bo_diddley_tdc.txt
+Max Flow: I -> bVII
+Max Degree: IV
+-----------------------------------------
+i_got_you_tdc.txt
+Max Flow: IVd7 -> Id7
+Max Degree: IVd7
+-----------------------------------------
+god_only_knows_tdc.txt
+Max Flow: I6 -> ii7
+Max Degree: ii7
+-----------------------------------------
+foxey_lady_tdc.txt
+Max Flow: Id7#9 -> IV
+Max Degree: I
+-----------------------------------------
+love_and_happiness_dt.txt
+Max Flow: V7 -> bVId7
+Max Degree: i
+-----------------------------------------
+my_generation_tdc.txt
+Max Flow: I -> V42/IV
+Max Degree: I
+-----------------------------------------
+you_send_me_tdc.txt
+Max Flow: I -> ii
+Max Degree: I
+-----------------------------------------
+i_saw_her_standing_there_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+california_love_dt.txt
+Max Flow: R -> i
+Max Degree: R
+-----------------------------------------
+eight_miles_high_dt.txt
+Max Flow: bIII -> bVI
+Max Degree: bIII
+-----------------------------------------
+its_a_mans_mans_mans_world_dt.txt
+Max Flow: i -> v
+Max Degree: V
+-----------------------------------------
+roll_over_beethoven_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+fortunate_son_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+whats_going_on_dt.txt
+Max Flow: I7 -> vi7
+Max Degree: V11
+-----------------------------------------
+the_tracks_of_my_tears_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+cathys_clown_dt.txt
+Max Flow: I -> V
+Max Degree: IV
+-----------------------------------------
+i_want_you_back_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+good_golly_miss_molly_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+purple_haze_dt.txt
+Max Flow: IV -> i
+Max Degree: i
+-----------------------------------------
+love_and_happiness_tdc.txt
+Max Flow: V7 -> bVId7
+Max Degree: i
+-----------------------------------------
+the_times_they_are_a-changin_dt.txt
+Max Flow: I -> vi
+Max Degree: I
+-----------------------------------------
+lets_get_it_on_tdc.txt
+Max Flow: I -> IV
+Max Degree: IVd7
+-----------------------------------------
+no_woman_no_cry_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+help_tdc.txt
+Max Flow: bVII -> I
+Max Degree: I
+-----------------------------------------
+rock_and_roll_music_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+fortunate_son_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+house_of_the_rising_sun_tdc.txt
+Max Flow: V -> bIII
+Max Degree: i
+-----------------------------------------
+paint_it_black_tdc.txt
+Max Flow: i -> V
+Max Degree: bVII
+-----------------------------------------
+i_only_have_eyes_for_you_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+born_to_run_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+in_bloom_dt.txt
+Max Flow: I -> vi
+Max Degree: IV
+-----------------------------------------
+superstition_tdc.txt
+Max Flow: #IV -> IV
+Max Degree: V
+-----------------------------------------
+not_fade_away_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+losing_my_religion_dt.txt
+Max Flow: i -> v
+Max Degree: bVII
+-----------------------------------------
+who_do_you_love_dt.txt
+Max Flow: Warning: -> but
+Max Degree: Warning:
+-----------------------------------------
+not_fade_away_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+georgia_on_my_mind_tdc.txt
+Max Flow: V7 -> V7/V
+Max Degree: vi
+-----------------------------------------
+crying_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+a_day_in_the_life_tdc.txt
+Max Flow: IV -> vi
+Max Degree: IV
+-----------------------------------------
+your_song_dt.txt
+Max Flow: IV -> vi
+Max Degree: IV
+-----------------------------------------
+dream_on_dt.txt
+Max Flow: bVII -> i
+Max Degree: i
+-----------------------------------------
+tears_in_heaven_tdc.txt
+Max Flow: I -> V6
+Max Degree: V6
+-----------------------------------------
+hey_jude_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+earth_angel_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+great_balls_of_fire_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+purple_rain_tdc.txt
+Max Flow: I -> vi
+Max Degree: I
+-----------------------------------------
+voodoo_child_dt.txt
+Max Flow: IV -> bVI
+Max Degree: i
+-----------------------------------------
+in_the_still_of_the_night_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+folsom_prison_blues_dt.txt
+Max Flow: V -> I
+Max Degree: I
+-----------------------------------------
+jumpin_jack_flash_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+tangled_up_in_blue_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+billie_jean_dt.txt
+Max Flow: i -> iv
+Max Degree: bVI
+-----------------------------------------
+thunder_road_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+god_only_knows_dt.txt
+Max Flow: IV -> I6
+Max Degree: ii7
+-----------------------------------------
+back_in_black_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+please_please_please_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+fast_car_tdc.txt
+Max Flow: I -> vi
+Max Degree: IV
+-----------------------------------------
+heartbreak_hotel_dt.txt
+Max Flow: I -> IVd7
+Max Degree: I
+-----------------------------------------
+god_save_the_queen_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+the_dock_of_the_bay_tdc.txt
+Max Flow: I -> VI
+Max Degree: I
+-----------------------------------------
+anarchy_in_the_uk_tdc.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+ive_been_loving_you_too_long_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+rock_lobster_tdc.txt
+Max Flow: V -> i
+Max Degree: i
+-----------------------------------------
+when_doves_cry_tdc.txt
+Max Flow: bVII -> i
+Max Degree: bVII
+-----------------------------------------
+everyday_people_tdc.txt
+Max Flow: I -> IV64
+Max Degree: I
+-----------------------------------------
+foxey_lady_dt.txt
+Max Flow: i -> IV
+Max Degree: i
+-----------------------------------------
+fake_plastic_trees_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+i_heard_it_through_the_grapevine_dt.txt
+Max Flow: IV -> i
+Max Degree: IV
+-----------------------------------------
+blue_suede_shoes_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+redemption_song_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+1999_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+papas_got_a_brand_new_bag_dt.txt
+Max Flow: V7 -> I
+Max Degree: V7
+-----------------------------------------
+california_dreamin_tdc.txt
+Max Flow: bVI -> bVII
+Max Degree: bVI
+-----------------------------------------
+youve_lost_that_lovin_feelin_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+paranoid_android_tdc.txt
+Max Flow: I -> bVII
+Max Degree: i
+-----------------------------------------
+maybellene_tdc.txt
+Max Flow: V -> I
+Max Degree: I
+-----------------------------------------
+superstition_dt.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+satisfaction_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+free_fallin_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+hound_dog_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+dancing_in_the_street_tdc.txt
+Max Flow: I64 -> IV
+Max Degree: Id7
+-----------------------------------------
+yesterday_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+bridge_over_troubled_water_tdc.txt
+Max Flow: IV -> I
+Max Degree: IV
+-----------------------------------------
+she_loves_you_tdc.txt
+Max Flow: V -> I
+Max Degree: vi
+-----------------------------------------
+crazy_tdc.txt
+Max Flow: I -> ii
+Max Degree: I
+-----------------------------------------
+whats_going_on_tdc.txt
+Max Flow: I7 -> vi7
+Max Degree: V11
+-----------------------------------------
+cathys_clown_tdc.txt
+Max Flow: I -> V
+Max Degree: IV
+-----------------------------------------
+roll_over_beethoven_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+maybellene_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+johnny_b_goode_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+london_calling_dt.txt
+Max Flow: bII7 -> i
+Max Degree: i
+-----------------------------------------
+when_a_man_loves_a_woman_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+dancing_in_the_street_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+nothing_compares_2_u_dt.txt
+Max Flow: I -> V6
+Max Degree: IV
+-----------------------------------------
+be_my_baby_dt.txt
+Max Flow: I -> V
+Max Degree: V
+-----------------------------------------
+whatd_i_say_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+sunshine_of_your_love_dt.txt
+Max Flow: IV -> V
+Max Degree: I
+-----------------------------------------
+back_in_black_tdc.txt
+Max Flow: I -> bVII
+Max Degree: bVII
+-----------------------------------------
+losing_my_religion_tdc.txt
+Max Flow: bVII -> i
+Max Degree: bVII
+-----------------------------------------
+when_doves_cry_dt.txt
+Max Flow: bVII -> i
+Max Degree: bVII
+-----------------------------------------
+while_my_guitar_gently_weeps_tdc.txt
+Max Flow: IV6 -> V
+Max Degree: V
+-----------------------------------------
+mr_tambourine_man_dylan_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+she_loves_you_dt.txt
+Max Flow: V -> I
+Max Degree: vi
+-----------------------------------------
+bo_diddley_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+like_a_rolling_stone_dt.txt
+Max Flow: IV -> V
+Max Degree: I
+-----------------------------------------
+stand_by_me_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+blueberry_hill_tdc.txt
+Max Flow: I -> V7
+Max Degree: I
+-----------------------------------------
+bitter_sweet_symphony_tdc.txt
+Max Flow: I -> IV
+Max Degree: v7
+-----------------------------------------
+respect_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+kashmir_dt.txt
+Max Flow: I -> IV
+Max Degree: V
+-----------------------------------------
+hallelujah_tdc.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+jailhouse_rock_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+billie_jean_tdc.txt
+Max Flow: i -> iv
+Max Degree: bVI
+-----------------------------------------
+walk_on_by_dt.txt
+Max Flow: I7 -> IV
+Max Degree: IV
+-----------------------------------------
+dancing_queen_dt.txt
+Max Flow: I -> IV64
+Max Degree: vi
+-----------------------------------------
+maggie_may_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+louie_louie_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+satisfaction_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+good_vibrations_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+i_believe_i_can_fly_tdc.txt
+Max Flow: I64 -> iih43
+Max Degree: vi7
+-----------------------------------------
+rockin_in_the_free_world_tdc.txt
+Max Flow: bVII -> bVI
+Max Degree: bVI
+-----------------------------------------
+people_get_ready_tdc.txt
+Max Flow: I -> V11
+Max Degree: I
+-----------------------------------------
+imagine_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+i_fought_the_law_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+thatll_be_the_day_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+thats_all_right_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+be-bop-a-lula_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+the_boxer_tdc.txt
+Max Flow: V -> vi
+Max Degree: V
+-----------------------------------------
+for_what_its_worth_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+shout_tdc.txt
+Max Flow: I -> vi
+Max Degree: I
+-----------------------------------------
+good_vibrations_tdc.txt
+Max Flow: V -> I
+Max Degree: I
+-----------------------------------------
+proud_mary_dt.txt
+Max Flow: bVII -> V
+Max Degree: V
+-----------------------------------------
+all_apologies_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+shake_rattle_and_roll_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+norwegian_wood_tdc.txt
+Max Flow: I -> I64
+Max Degree: I64
+-----------------------------------------
+let_it_be_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+while_my_guitar_gently_weeps_dt.txt
+Max Flow: IV6 -> V
+Max Degree: V
+-----------------------------------------
+california_love_tdc.txt
+Max Flow: bVII -> i
+Max Degree: R
+-----------------------------------------
+papas_got_a_brand_new_bag_tdc.txt
+Max Flow: V7 -> Id7
+Max Degree: Id7
+-----------------------------------------
+lets_stay_together_tdc.txt
+Max Flow: ii -> iii
+Max Degree: ii
+-----------------------------------------
+i_heard_it_through_the_grapevine_tdc.txt
+Max Flow: IVd7 -> i
+Max Degree: IVd7
+-----------------------------------------
+in_my_life_dt.txt
+Max Flow: I -> vi
+Max Degree: V
+-----------------------------------------
+wont_get_fooled_again_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+whole_lotta_shakin_goin_on_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+my_girl_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+lets_stay_together_dt.txt
+Max Flow: I -> ii
+Max Degree: ii7
+-----------------------------------------
+blowin_in_the_wind_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+stairway_to_heaven_dt.txt
+Max Flow: bVI -> i
+Max Degree: IV
+-----------------------------------------
+mystery_train_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+dont_worry_baby_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+me_and_bobby_mcgee_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+i_still_havent_found_what_im_looking_for_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+im_so_lonesome_i_could_cry_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+lose_yourself_tdc.txt
+Max Flow: bVI6 -> i
+Max Degree: bVI6
+-----------------------------------------
+river_deep_mountain_high_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+rock_around_the_clock_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+me_and_bobby_mcgee_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+living_for_the_city_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+norwegian_wood_dt.txt
+Max Flow: I -> v
+Max Degree: I
+-----------------------------------------
+with_or_without_you_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+brown-eyed_girl_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+come_as_you_are_tdc.txt
+Max Flow: bVII -> i
+Max Degree: bIII
+-----------------------------------------
+the_weight_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+shout_dt.txt
+Max Flow: I -> vi
+Max Degree: I
+-----------------------------------------
+bohemian_rhapsody_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+waterloo_sunset_dt.txt
+Max Flow: I -> IV6
+Max Degree: IV6
+-----------------------------------------
+i_cant_stop_loving_you_dt.txt
+Max Flow: I -> V7
+Max Degree: I
+-----------------------------------------
+i_walk_the_line_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+love_will_tear_us_apart_tdc.txt
+Max Flow: I -> IV6
+Max Degree: I
+-----------------------------------------
+strawberry_fields_forever_dt.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+little_red_corvette_dt.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+paint_it_black_dt.txt
+Max Flow: i -> V
+Max Degree: bVII
+-----------------------------------------
+i_wanna_be_sedated_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+bridge_over_troubled_water_dt.txt
+Max Flow: IV -> I
+Max Degree: IV
+-----------------------------------------
+in_my_life_tdc.txt
+Max Flow: I -> vi
+Max Degree: V
+-----------------------------------------
+summer_babe_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+crazy_dt.txt
+Max Flow: I -> ii
+Max Degree: I
+-----------------------------------------
+heartbreak_hotel_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+fake_plastic_trees_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+lust_for_life_tdc.txt
+Max Flow: I -> V
+Max Degree: V
+-----------------------------------------
+london_calling_tdc.txt
+Max Flow: bIII -> i
+Max Degree: i
+-----------------------------------------
+hotel_california_tdc.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+tutti_frutti_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+nuthin_but_a_g_thang_dt.txt
+Max Flow: i -> v
+Max Degree: i
+-----------------------------------------
+light_my_fire_dt.txt
+Max Flow: i -> ii
+Max Degree: I
+-----------------------------------------
+loser_dt.txt
+Max Flow: I -> R
+Max Degree: I
+-----------------------------------------
+paranoid_android_dt.txt
+Max Flow: bVI -> I
+Max Degree: I
+-----------------------------------------
+love_will_tear_us_apart_dt.txt
+Max Flow: I -> IV
+Max Degree: V
+-----------------------------------------
+ive_been_loving_you_too_long_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+every_breath_you_take_dt.txt
+Max Flow: vi -> IV
+Max Degree: I
+-----------------------------------------
+yesterday_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+i_got_you_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+california_girls_tdc.txt
+Max Flow: I -> ii7
+Max Degree: I
+-----------------------------------------
+ring_of_fire_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+the_message_tdc.txt
+Max Flow: R -> i7
+Max Degree: R
+-----------------------------------------
+will_you_love_me_tomorrow_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+hey_jude_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+all_along_the_watchtower_tdc.txt
+Max Flow: bVI -> bVII
+Max Degree: bVII
+-----------------------------------------
+fast_car_dt.txt
+Max Flow: IV -> V
+Max Degree: IV
+-----------------------------------------
+born_to_be_wild_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+lets_get_it_on_dt.txt
+Max Flow: IV -> V
+Max Degree: IV
+-----------------------------------------
+summertime_blues_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+i_only_have_eyes_for_you_tdc.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+i_cant_make_you_love_me_dt.txt
+Max Flow: I6 -> IV
+Max Degree: IV
+-----------------------------------------
+thatll_be_the_day_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+i_cant_make_you_love_me_tdc.txt
+Max Flow: IV9 -> vi7
+Max Degree: IV9
+-----------------------------------------
+hot_stuff_tdc.txt
+Max Flow: i -> v
+Max Degree: i
+-----------------------------------------
+sunshine_of_your_love_tdc.txt
+Max Flow: IV -> V
+Max Degree: I
+-----------------------------------------
+layla_dt.txt
+Max Flow: bVI -> bVII
+Max Degree: I
+-----------------------------------------
+nothing_compares_2_u_tdc.txt
+Max Flow: I -> V6
+Max Degree: IV
+-----------------------------------------
+summertime_blues_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+imagine_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+born_to_be_wild_tdc.txt
+Max Flow: IV -> bIII
+Max Degree: i
+-----------------------------------------
+up_on_the_roof_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+whatd_i_say_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+voodoo_child_tdc.txt
+Max Flow: IV6 -> bVII
+Max Degree: i
+-----------------------------------------
+smells_like_teen_spirit_dt.txt
+Max Flow: IV -> i
+Max Degree: IV
+-----------------------------------------
+one_dt.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+please_please_please_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+jumpin_jack_flash_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+johnny_b_goode_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+up_on_the_roof_dt.txt
+Max Flow: I -> vi
+Max Degree: vi
+-----------------------------------------
+sweet_child_o_mine_dt.txt
+Max Flow: IV -> bVII
+Max Degree: bVII
+-----------------------------------------
+the_dock_of_the_bay_dt.txt
+Max Flow: I -> II
+Max Degree: I
+-----------------------------------------
+in_bloom_tdc.txt
+Max Flow: I -> vi
+Max Degree: I
+-----------------------------------------
+be-bop-a-lula_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+im_waiting_for_the_man_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+mr_tambourine_man_dylan_tdc.txt
+Max Flow: I -> IV6
+Max Degree: I
+-----------------------------------------
+go_your_own_way_tdc.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+i_saw_her_standing_there_dt.txt
+Max Flow: V -> I
+Max Degree: IV
+-----------------------------------------
+sympathy_for_the_devil_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+rave_on_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+dancing_queen_tdc.txt
+Max Flow: I -> IV64
+Max Degree: vi
+-----------------------------------------
+whole_lotta_love_dt.txt
+Max Flow: bVII -> i
+Max Degree: R
+-----------------------------------------
+i_fought_the_law_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+a_hard_days_night_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+stairway_to_heaven_tdc.txt
+Max Flow: bVII -> i
+Max Degree: IV
+-----------------------------------------
+your_song_tdc.txt
+Max Flow: IV -> vi
+Max Degree: IV
+-----------------------------------------
+long_tall_sally_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+tears_in_heaven_dt.txt
+Max Flow: I -> V6
+Max Degree: V6
+-----------------------------------------
+dont_worry_baby_dt.txt
+Max Flow: I -> V
+Max Degree: V
+-----------------------------------------
+come_as_you_are_dt.txt
+Max Flow: bVII -> i
+Max Degree: bIII
+-----------------------------------------
+help_dt.txt
+Max Flow: bVII -> I
+Max Degree: I
+-----------------------------------------
+hotel_california_dt.txt
+Max Flow: V -> bIII
+Max Degree: V
+-----------------------------------------
+da_doo_ron_ron_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+tutti_frutti_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+smells_like_teen_spirit_tdc.txt
+Max Flow: bIII -> i
+Max Degree: bIII
+-----------------------------------------
+both_sides_now_tdc.txt
+Max Flow: I -> IV64
+Max Degree: I
+-----------------------------------------
+lust_for_life_dt.txt
+Max Flow: I -> V
+Max Degree: V
+-----------------------------------------
+sweet_child_o_mine_tdc.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+california_dreamin_dt.txt
+Max Flow: bVI -> bVII
+Max Degree: bVI
+-----------------------------------------
+rock_around_the_clock_dt.txt
+Max Flow: I -> IVd7
+Max Degree: I
+-----------------------------------------
+honky_tonk_women_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+who_do_you_love_tdc.txt
+Max Flow: R -> I
+Max Degree: R
+-----------------------------------------
+purple_haze_tdc.txt
+Max Flow: i -> bVII
+Max Degree: IV
+-----------------------------------------
+you_send_me_dt.txt
+Max Flow: I -> V7
+Max Degree: I
+-----------------------------------------
+take_me_to_the_river_dt.txt
+Max Flow: IV -> bVII
+Max Degree: IV
+-----------------------------------------
+long_tall_sally_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+september_gurls_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+you_cant_always_get_what_you_want_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+hot_stuff_dt.txt
+Max Flow: i -> V
+Max Degree: i
+-----------------------------------------
+suspicious_minds_dt.txt
+Max Flow: IV -> V
+Max Degree: I
+-----------------------------------------
+bizarre_love_triangle_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+rockin_in_the_free_world_dt.txt
+Max Flow: bVII -> bVI
+Max Degree: i
+-----------------------------------------
+the_sounds_of_silence_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+mr_tambourine_man_byrds_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+changes_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+jailhouse_rock_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+gimme_shelter_dt.txt
+Max Flow: I -> bVI
+Max Degree: bVII
+-----------------------------------------
+summer_babe_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+the_message_dt.txt
+Max Flow: R -> i
+Max Degree: R
+-----------------------------------------
+my_girl_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+i_cant_stop_loving_you_tdc.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+blitzkrieg_bop_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+heroes_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+georgia_on_my_mind_dt.txt
+Max Flow: I -> vi
+Max Degree: vi
+-----------------------------------------
+i_want_to_hold_your_hand_tdc.txt
+Max Flow: IV -> I
+Max Degree: I
+-----------------------------------------
+hound_dog_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+suspicious_minds_tdc.txt
+Max Flow: I -> IV64
+Max Degree: IV
+-----------------------------------------
+no_woman_no_cry_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+dream_on_tdc.txt
+Max Flow: bVII -> i
+Max Degree: i
+-----------------------------------------
+whole_lotta_love_tdc.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+anarchy_in_the_uk_dt.txt
+Max Flow: IV -> iii
+Max Degree: I
+-----------------------------------------
+i_wanna_be_sedated_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+gimme_shelter_tdc.txt
+Max Flow: I -> bVII
+Max Degree: bVII
+-----------------------------------------
+be_my_baby_tdc.txt
+Max Flow: I -> V
+Max Degree: V
+-----------------------------------------
+light_my_fire_tdc.txt
+Max Flow: i -> ii
+Max Degree: I
+-----------------------------------------
+good_golly_miss_molly_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+i_believe_i_can_fly_dt.txt
+Max Flow: I64 -> iih43
+Max Degree: I
+-----------------------------------------
+honky_tonk_women_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+bohemian_rhapsody_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+a_whiter_shade_of_pale_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+eight_miles_high_tdc.txt
+Max Flow: bIII -> bVI
+Max Degree: bVI
+-----------------------------------------
+with_or_without_you_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+my_generation_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+walk_on_by_tdc.txt
+Max Flow: I -> IV
+Max Degree: iii
+-----------------------------------------
+all_i_have_to_do_is_dream_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+crying_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+i_want_to_hold_your_hand_dt.txt
+Max Flow: V -> I
+Max Degree: V
+-----------------------------------------
+the_weight_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+rock_lobster_dt.txt
+Max Flow: V -> i
+Max Degree: i
+-----------------------------------------
+go_your_own_way_dt.txt
+Max Flow: IV -> V
+Max Degree: V
+-----------------------------------------
+both_sides_now_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+kashmir_tdc.txt
+Max Flow: V -> iv
+Max Degree: I
+-----------------------------------------
+god_save_the_queen_tdc.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+house_of_the_rising_sun_dt.txt
+Max Flow: bIII -> i
+Max Degree: i
+-----------------------------------------
+whole_lotta_shakin_goin_on_dt.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+living_for_the_city_tdc.txt
+Max Flow: #IV -> I
+Max Degree: I
+-----------------------------------------
+purple_rain_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+da_doo_ron_ron_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+im_waiting_for_the_man_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+tangled_up_in_blue_tdc.txt
+Max Flow: I -> Id9
+Max Degree: I
+-----------------------------------------
+everyday_people_dt.txt
+Max Flow: I -> IV64
+Max Degree: I
+-----------------------------------------
+hallelujah_dt.txt
+Max Flow: vi -> I
+Max Degree: vi
+-----------------------------------------
+in_the_still_of_the_night_tdc.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+respect_tdc.txt
+Max Flow: Id7 -> IV
+Max Degree: IV
+-----------------------------------------
+youve_lost_that_lovin_feelin_dt.txt
+Max Flow: I -> ii
+Max Degree: ii
+-----------------------------------------
+the_boxer_dt.txt
+Max Flow: I -> V
+Max Degree: I
+-----------------------------------------
+its_a_mans_mans_mans_world_tdc.txt
+Max Flow: i -> v
+Max Degree: V
+-----------------------------------------
+great_balls_of_fire_dt.txt
+Max Flow: I -> IV
+Max Degree: IV
+-----------------------------------------
+river_deep_mountain_high_dt.txt
+Max Flow: I -> bVII
+Max Degree: I
+-----------------------------------------
+earth_angel_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
+changes_tdc.txt
+Max Flow: I -> IV
+Max Degree: I
+-----------------------------------------
