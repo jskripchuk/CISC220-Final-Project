@@ -1,0 +1,112 @@
+Flow Stats
+[Source Chord] -> [Target Chord] : [# of songs that this was the maximum flow]
+
+#IV -> I : 1
+#IV -> IV : 1
+I -> I64 : 1
+I -> II : 1
+I -> IV : 143
+I -> IV6 : 4
+I -> IV64 : 6
+I -> IVd7 : 4
+I -> Id9 : 1
+I -> V : 45
+I -> V11 : 2
+I -> V42/IV : 1
+I -> V6 : 4
+I -> V7 : 3
+I -> VI : 1
+I -> bVI : 1
+I -> bVII : 16
+I -> ii : 6
+I -> ii7 : 2
+I -> v : 1
+I -> vi : 12
+I6 -> IV : 1
+I6 -> ii7 : 1
+I64 -> IV : 1
+I64 -> iih43 : 2
+I7 -> IV : 1
+I7 -> vi7 : 2
+IV -> I : 9
+IV -> I6 : 1
+IV -> Id7 : 1
+IV -> V : 14
+IV -> bIII : 1
+IV -> bVI : 1
+IV -> bVII : 3
+IV -> i : 3
+IV -> iii : 1
+IV -> vi : 5
+IV6 -> V : 2
+IV6 -> bVII : 1
+IV9 -> vi7 : 1
+IVd7 -> Id7 : 1
+IVd7 -> i : 1
+Id7 -> IV : 1
+Id7#9 -> IV : 1
+R -> I : 1
+R -> i : 2
+R -> i7 : 1
+V -> I : 9
+V -> bIII : 2
+V -> i : 2
+V -> iv : 1
+V -> vi : 1
+V7 -> I : 1
+V7 -> Id7 : 1
+V7 -> V7/V : 1
+V7 -> bVId7 : 2
+bII7 -> i : 1
+bIII -> bVI : 2
+bIII -> i : 3
+bVI -> I : 1
+bVI -> bVII : 6
+bVI -> i : 3
+bVI6 -> i : 1
+bVII -> I : 2
+bVII -> V : 2
+bVII -> bVI : 2
+bVII -> i : 10
+i -> IV : 1
+i -> V : 3
+i -> bVI : 1
+i -> bVII : 1
+i -> ii : 3
+i -> iv : 2
+i -> iv64 : 1
+i -> v : 5
+i -> v7s4 : 1
+ii -> iii : 1
+ii7 -> V : 2
+vi -> I : 1
+vi -> IV : 1
+
+-----------------------------------------
+
+Degree Stats
+[Chord] : [# of songs that had a max degree of this chord]
+
+I : 220
+I64 : 1
+IV : 54
+IV6 : 2
+IV9 : 1
+IVd7 : 3
+Id7 : 2
+R : 6
+V : 28
+V11 : 2
+V6 : 2
+V7 : 1
+bIII : 4
+bVI : 8
+bVI6 : 1
+bVII : 12
+i : 25
+ii : 3
+ii7 : 3
+iii : 1
+v7 : 1
+vi : 10
+vi7 : 1

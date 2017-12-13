@@ -34,11 +34,6 @@ ii(0): IV(1)
 iii(0): IV(8) vi(1) 
 vi(0): I(5) IV(2) 
 
-*loser_tdc.txt
-*Graph:
-I(0): R(1) 
-R(0): I(1) 
-
 *a_whiter_shade_of_pale_dt.txt
 *Graph:
 I(0): iii64(11) IV(5) V(2) 
@@ -964,20 +959,6 @@ bVII(0): bVI(5) i(8) bIII(1)
 i(0): bVI(6) bVII(5) v(15) 
 iv(0): bVII(5) bIII(1) i(1) 
 v(0): i(10) iv(5) 
-
-*who_do_you_love_dt.txt
-*Graph:
-'Ch5'(0): is(1) 
-'Vr5'(0): is(1) 
-I(0): 
-R(0): V(1) 
-V(0): I(1) 
-Warning:(0): 'Ch5'(1) 'Vr5'(1) 
-but(0): never(2) 
-defined(0): but(2) 
-is(0): defined(2) 
-never(0): used(2) 
-used(0): Warning:(1) R(1) 
 
 *not_fade_away_tdc.txt
 *Graph:
@@ -2457,11 +2438,6 @@ ii(0): i(139) I(1)
 iii(0): v(12) IV(4) 
 v(0): iii(16) 
 
-*loser_dt.txt
-*Graph:
-I(0): R(1) 
-R(0): I(1) 
-
 *paranoid_android_dt.txt
 *Graph:
 I(0): bVI(18) vi(4) IV(1) 
@@ -2607,21 +2583,6 @@ I(0): bIII(14) bVII(8)
 IV(0): I(12) bIII(2) 
 bIII(0): IV(14) I(2) 
 bVII(0): I(8) 
-
-*lets_get_it_on_dt.txt
-*Graph:
-'Vr2'(0): is(1) 
-I(0): I6(40) 
-I6(0): IV(40) 
-IV(0): V(40) I(6) ii(2) 
-V(0): I(33) IV(8) 
-Warning:(0): 'Vr2'(1) 
-but(0): never(1) 
-defined(0): but(1) 
-ii(0): V(2) 
-is(0): defined(1) 
-never(0): used(1) 
-used(0): I(1) 
 
 *summertime_blues_tdc.txt
 *Graph:
@@ -3062,21 +3023,6 @@ bVI(0): i(66)
 i(0): iv(66) bII(4) 
 i64(0): iv(4) 
 iv(0): bIII(70) 
-
-*both_sides_now_tdc.txt
-*Graph:
-'In'(0): is(1) 
-I(0): IV64(24) I7(19) V(22) 
-I7(0): IV64(31) 
-IV64(0): I(30) I7(3) Vs4(22) 
-V(0): I(22) 
-Vs4(0): I(13) I7(9) 
-Warning:(0): 'In'(1) 
-but(0): never(1) 
-defined(0): but(1) 
-is(0): defined(1) 
-never(0): used(1) 
-used(0): I(1) 
 
 *lust_for_life_dt.txt
 *Graph:

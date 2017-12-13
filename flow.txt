@@ -10,10 +10,6 @@ thunder_road_dt.txt
 Max Flow: I -> IV
 Max Degree: I
 -----------------------------------------
-loser_tdc.txt
-Max Flow: I -> R
-Max Degree: I
------------------------------------------
 a_whiter_shade_of_pale_dt.txt
 Max Flow: I -> IV
 Max Degree: I
@@ -425,10 +421,6 @@ Max Degree: IV
 losing_my_religion_dt.txt
 Max Flow: i -> v
 Max Degree: bVII
------------------------------------------
-who_do_you_love_dt.txt
-Max Flow: Warning: -> but
-Max Degree: Warning:
 -----------------------------------------
 not_fade_away_tdc.txt
 Max Flow: I -> IV
@@ -1030,10 +1022,6 @@ light_my_fire_dt.txt
 Max Flow: i -> ii
 Max Degree: I
 -----------------------------------------
-loser_dt.txt
-Max Flow: I -> R
-Max Degree: I
------------------------------------------
 paranoid_android_dt.txt
 Max Flow: bVI -> I
 Max Degree: I
@@ -1089,10 +1077,6 @@ Max Degree: IV
 born_to_be_wild_dt.txt
 Max Flow: I -> IV
 Max Degree: I
------------------------------------------
-lets_get_it_on_dt.txt
-Max Flow: IV -> V
-Max Degree: IV
 -----------------------------------------
 summertime_blues_tdc.txt
 Max Flow: I -> IV
@@ -1277,10 +1261,6 @@ Max Degree: I
 smells_like_teen_spirit_tdc.txt
 Max Flow: bIII -> i
 Max Degree: bIII
------------------------------------------
-both_sides_now_tdc.txt
-Max Flow: I -> IV64
-Max Degree: I
 -----------------------------------------
 lust_for_life_dt.txt
 Max Flow: I -> V
