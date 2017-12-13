@@ -22,28 +22,46 @@ void line_populate(vector<string> &record, const string& line, char delimiter) {
 
   while(line[linepos]!=0 && linepos < linemax) {
     c = line[linepos];
-    if (c==delimiter) {
-      //end of field
-      record.push_back( curstring );
-      curstring="";
+    
+    // Skip over text inbetween brackets
+    if (c=='['){
+      while (c!=']'){
+        linepos++;
+        c = line[linepos];
+      }
+      linepos++;
+      c = line[linepos];
     }
-    else if ((c=='\r' || c=='\n')) {
-      record.push_back( curstring );
+    
+    // Skip over things that are not chords, and add the current string to the vector (unless empty due to previous delimiter)
+    if (c==delimiter || c=='|' || c=='.') {
+      //end of field
+      if (curstring != ""){
+        record.push_back( curstring );
+        curstring="";
+      }
+    }
+    else if ((c=='\r' || c=='\n')) {  // End of line
+      if (curstring != ""){
+        record.push_back( curstring );
+      }
       return;
     }
-    else {
+    else { // Is part of chord
       curstring.push_back(c);
     }
     linepos++;
   }
-  record.push_back( curstring );
+  if (curstring != ""){
+    record.push_back( curstring );
+  }
   return;
 }
 
 // Code that reads a file of chords, and makes a ChordGraph of it. The file must contain chords separated by spaces or newlines only!
 // The very last line of the file will not be read, song information can be stored there.
 bool parseChords(ChordGraph & cg, char * fileName){
-  
+
   ifstream inFile(fileName); // Input File Stream
   
   // Error stuff
@@ -67,14 +85,14 @@ bool parseChords(ChordGraph & cg, char * fileName){
     // If this isn't the first line of the file
     if (carry != ""){
       // Make a progression from to last chord of the last line to the first chord of this line
-      cout << "--------------------" << endl;
+      //cout << "--------------------" << endl;
       cg.addProgression(carry, row[0]);
     }
     
     // For every chord except the last in this line
     for (int i = 0; i < row.size() - 1; i++){
       // Make a progression from first chord to next chord
-      cout << "--------------------" << endl;
+      //cout << "--------------------" << endl;
       cg.addProgression(row[i], row[i+1]);
     }
 
